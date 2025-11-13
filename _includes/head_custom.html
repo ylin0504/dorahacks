@@ -1,29 +1,26 @@
 <style>
-/* 左上角标题隐藏，改用 logo 图标 */
+/* 如果你要 logo，可以保留这段，否则删掉 */
 .site-title {
   font-size: 0;
 }
-
 .site-title::before {
   content: "";
   display: inline-block;
-  width: 140px;     /* 调整 logo 宽度 */
+  width: 140px;
   height: 40px;
   background-image: url("{{ '/assets/logo.png' | relative_url }}");
   background-size: contain;
   background-repeat: no-repeat;
 }
 
-/* 全站链接样式：始终为黑色并带下划线 */
-a,
-a:visited {
+/* 正文链接：黑色 + 下划线 */
+.page-content a,
+.page-content a:visited {
   color: #000000;
   text-decoration: underline;
 }
-
-/* 悬停时仍然是黑色 + 下划线 */
-a:hover,
-a:focus {
+.page-content a:hover,
+.page-content a:focus {
   color: #000000;
   text-decoration: underline;
 }
