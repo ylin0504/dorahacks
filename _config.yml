@@ -1,11 +1,15 @@
 title: DoraHacks Wiki
-theme: just-the-docs
 
-url: https://ylin0504.github.io/dorahacks-wiki
-baseurl: ""
+# 用 remote_theme，而不是 theme
+remote_theme: just-the-docs/just-the-docs
+
+# 如果是项目页，建议这样配置
+url: https://YOUR_GITHUB_USERNAME.github.io
+baseurl: "/dorahacks-wiki"
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 just_the_docs:
   search_enabled: true
