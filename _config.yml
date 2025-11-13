@@ -1,0 +1,11 @@
+title: DoraHacks Wiki
+theme: just-the-docs
+
+url: https://ylin0504.github.io/dorahacks-wiki
+baseurl: ""
+
+plugins:
+  - jekyll-seo-tag
+
+just_the_docs:
+  search_enabled: true
