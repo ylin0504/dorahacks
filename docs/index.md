@@ -7,8 +7,9 @@ nav_order: 1
 
 # Dora Wiki
 
-**DoraHacks** is a global hackathon organizer and one of the world’s most active open source developer incentive platforms.
-It creates a global hackathon movement in blockchain, Web3, quantum computing and space tech, and provides a wide range of toolkits to help developers around the world team up and fund their ideas and BUIDLs via hackathons, GrantDAOs, idea networks, developer games and more.
+[DoraHacks](https://dorahacks.io/) is the leading global hackathon community and open source developer incentive platform. DoraHacks provides toolkits for anyone to organize hackathons and fund early-stage ecosystem startups.
+
+[DoraHacks](https://dorahacks.io/) creates a global hacker movement in Web3, AI, Quantum Computing and Space Tech. So far, more than 30,000 startup teams from the DoraHacks community have received over $300M in funding, and a large number of open source communities, companies and tech ecosystems are actively using DoraHacks together with its BUIDL AI capabilities for organizing hackathons and funding open source initiatives.
 
 <br>
 
