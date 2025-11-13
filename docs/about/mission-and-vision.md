@@ -2,7 +2,6 @@
 title: Mission and Vision
 parent: About
 nav_order: 1
-permalink: /dorahacks/about/mission-and-vision/
 ---
 
 # Mission and Vision
