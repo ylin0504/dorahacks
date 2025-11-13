@@ -3,7 +3,7 @@ title: DoraHacks Wiki
 nav_order: 1
 ---
 
-<img src="docs/assets/dora-banner.jpg" alt="DoraHacks workspace banner" style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
+<img src="assets/dora-banner.jpg" alt="DoraHacks workspace banner" style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
 
 # Dora Wiki
 
