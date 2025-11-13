@@ -1,18 +1,24 @@
 <style>
-/* 如果你要 logo，可以保留这段，否则删掉 */
+/* Hide the default site title text completely */
 .site-title {
-  font-size: 0;
+  font-size: 0 !important;
 }
+
+/* Replace with custom logo */
 .site-title::before {
   content: "";
   display: inline-block;
-  width: 140px;
-  height: 40px;
-  background-image: url("{{ '/assets/logo.png' | relative_url }}");
+  width: 140px;        /* 调整 Logo 宽度 */
+  height: auto;        /* 调整 Logo 高度 */
+  background-image: url('{{ "/docs/assets/logo.png" | relative_url }}');
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: left center;
 }
+</style>
 
+
+<style>
 /* 正文链接：黑色 + 下划线 */
 .page-content a,
 .page-content a:visited {
