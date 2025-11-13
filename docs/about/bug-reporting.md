@@ -6,4 +6,8 @@ nav_order: 6
 
 # Bug Reporting
 
-Instructions for reporting bugs or issues to the DoraHacks team.
+<aside>
+📨 **Spot an issue?** 
+Let us know via the '?' icon in the top-right after login.
+
+</aside>
