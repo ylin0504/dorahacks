@@ -20,12 +20,12 @@ nav_order: 1
   <div style="flex:1 1 260px; min-width:260px;">
     <h2>About DoraHacks</h2>
     <ul style="list-style:none; padding-left:0;">
-      <li>🧭 <a href="{{ '/about/mission-and-vision/' | relative_url }}">Mission and Vision</a></li>
-      <li>👩‍💻 <a href="{{ '/about/who-uses-dorahacks/' | relative_url }}">Who uses Dorahacks.io?</a></li>
-      <li>❓ <a href="{{ '/about/why-dorahacks/' | relative_url }}">Why DoraHacks?</a></li>
-      <li>📚 <a href="{{ '/about/glossary/' | relative_url }}">Glossary</a></li>
-      <li>📨 <a href="{{ '/about/contact-us/' | relative_url }}">Contact Us</a></li>
-      <li>🐞 <a href="{{ '/about/bug-reporting/' | relative_url }}">Bug Reporting</a></li>
+      <li>🧭 <a href="{{ '/docs/about/mission-and-vision/' | relative_url }}">Mission and Vision</a></li>
+      <li>👩‍💻 <a href="{{ '/docs/about/who-uses-dorahacks/' | relative_url }}">Who uses Dorahacks.io?</a></li>
+      <li>❓ <a href="{{ '/docs/about/why-dorahacks/' | relative_url }}">Why DoraHacks?</a></li>
+      <li>📚 <a href="{{ '/docs/about/glossary/' | relative_url }}">Glossary</a></li>
+      <li>📨 <a href="{{ '/docs/about/contact-us/' | relative_url }}">Contact Us</a></li>
+      <li>🐞 <a href="{{ '/docs/about/bug-reporting/' | relative_url }}">Bug Reporting</a></li>
     </ul>
   </div>
 
@@ -33,12 +33,12 @@ nav_order: 1
   <div style="flex:1 1 260px; min-width:260px;">
     <h2>Features</h2>
     <ul style="list-style:none; padding-left:0;">
-      <li>🚩 <a href="{{ '/features/hackathon/' | relative_url }}">Hackathon</a></li>
-      <li>📦 <a href="{{ '/features/buidl/' | relative_url }}">BUIDL</a></li>
-      <li>👥 <a href="{{ '/features/quadratic-funding/' | relative_url }}">Quadratic Funding</a></li>
-      <li>🛡️ <a href="{{ '/features/maci-amaci/' | relative_url }}">MACI &amp; aMACI</a></li>
-      <li>👤 <a href="{{ '/features/hacker-profile/' | relative_url }}">Hacker Profile</a></li>
-      <li>🏛️ <a href="{{ '/features/organization-profile/' | relative_url }}">Organization Profile</a></li>
+      <li>🚩 <a href="{{ '/docs/features/hackathon/' | relative_url }}">Hackathon</a></li>
+      <li>📦 <a href="{{ '/docs/features/buidl/' | relative_url }}">BUIDL</a></li>
+      <li>👥 <a href="{{ '/docs/features/quadratic-funding/' | relative_url }}">Quadratic Funding</a></li>
+      <li>🛡️ <a href="{{ '/docs/features/maci-amaci/' | relative_url }}">MACI &amp; aMACI</a></li>
+      <li>👤 <a href="{{ '/docs/features/hacker-profile/' | relative_url }}">Hacker Profile</a></li>
+      <li>🏛️ <a href="{{ '/docs/features/organization-profile/' | relative_url }}">Organization Profile</a></li>
     </ul>
   </div>
 
@@ -46,9 +46,9 @@ nav_order: 1
   <div style="flex:1 1 260px; min-width:260px;">
     <h2>Guide</h2>
     <ul style="list-style:none; padding-left:0;">
-      <li>🧩 <a href="{{ '/guides/create-hackathon/' | relative_url }}">How to Create Your Own Hackathon</a></li>
-      <li>🪄 <a href="{{ '/guides/manage-diy-hackathon/' | relative_url }}">How to Manage Your DIY Hackathon</a></li>
-      <li>🏛 <a href="{{ '/guides/create-qf-maci-round/' | relative_url }}">How to Create a QF / MACI / aMACI Round</a></li>
+      <li>🧩 <a href="{{ '/docs/guides/create-hackathon/' | relative_url }}">How to Create Your Own Hackathon</a></li>
+      <li>🪄 <a href="{{ '/docs/guides/manage-diy-hackathon/' | relative_url }}">How to Manage Your DIY Hackathon</a></li>
+      <li>🏛 <a href="{{ '/docs/guides/create-qf-maci-round/' | relative_url }}">How to Create a QF / MACI / aMACI Round</a></li>
     </ul>
   </div>
 
