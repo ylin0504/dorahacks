@@ -1,12 +1,11 @@
-title: 
-
-logo: "/dorahacks/assets/logo.png"
-
+title: "DoraHacks Wiki"
 
 remote_theme: just-the-docs/just-the-docs
 
 url: https://ylin0504.github.io
 baseurl: "/dorahacks"
+
+logo: "/dorahacks/docs/assets/logo.png"
 
 plugins:
   - jekyll-seo-tag
