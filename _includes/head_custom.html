@@ -1,0 +1,17 @@
+<style>
+/* 把左上角文字隐藏掉 */
+.site-title {
+  font-size: 0;
+}
+
+/* 用 logo 图替代文字 */
+.site-title::before {
+  content: "";
+  display: inline-block;
+  width: 140px;     /* 调整 logo 宽度 你可以改大或改小 */
+  height: 40px;
+  background-image: url("{{ '/assets/logo.png' | relative_url }}");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+</style>
