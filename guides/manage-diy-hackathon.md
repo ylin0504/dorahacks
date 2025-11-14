@@ -4,6 +4,8 @@ parent: Guides
 nav_order: 2
 ---
 
+# **How to Manage Your DIY hackathon**
+
 We are proud to present the **Organizer Dashboard**! This **all-in-one solution** acts as your centralized hub to ****handle ****each phase of hackathon management, from content editing and participant registrations, to submission review and result announcement.
 
 We are also excited to announce that **DoraHacks BUIDL AI is here!** (Built into the Dashboard)
@@ -16,31 +18,25 @@ Let’s get started!
 
 **The Dashboard currently offers the following key features:**
 
-**Basic Settings**
+**The Dashboard currently offers the following key features:**
 
-- [Edit Hackathon page content (Overview & Details & Custom Tabs)](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-    - Set custom questions for participants/registrants
-    - Customize Tabs
-- [Customize Tracks(Tracks)](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-- [Customize Bounties(Bounties)](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-- [Managing Team Permissions (Administrators)](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
+- [Basic Settings](#basic-settings)
+  - [Edit Hackathon page content (Overview & Details & Custom Tabs)](#edit-hackathon-page-content)
+  - [Customize Tracks](#customize-tracks)
+  - [Customize Bounties](#customize-bounties)
+  - [Managing Team Permissions (Administrators)](#managing-team-permissions)
+- [Registration Management](#registration-management)
+  - [View/export participant list (Hackers)](#view-export-participant-list)
+  - [BUIDL review (BUIDLs)](#buidl-review)
+  - [Send group messages to participants (Group messages)](#group-messages)
+- [Prizes & Judging](#prizes-and-judging)
+  - [aMACI on-chain judging](#amaci-on-chain-judging)
+  - [Winner Assignment (Tracks & Bounties)](#winner-assignment)
+  - [Hackathon Marketing Summary (BUIDL AI Tool)](#hackathon-marketing-summary)
+- [Gather participant feedback / provide support](#feedback-support)
+  - [Mailbox](#mailbox)
+  - [Ask Question](#ask-question)
 
-**Registration Management**
-
-- [View/export participant list (Hackers)](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-- [BUIDL review (BUIDLs)](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-- [Send group messages to participants (Group messages)](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-
-**Prizes & Judging**
-
-- [aMACI on-chain judging](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-- [Winner Assignment (Tracks & Bounties)](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-- [Hackathon Marketing Summary(Summary)](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-
-**Gather participant feedback/provide support**
-
-- [Mailbox](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
-- [Ask Question](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md)
 
 ## **Get started**
 
@@ -71,7 +67,7 @@ Let’s get started!
 > 🔗 [Subscribe to BUIDL AI](https://dorahacks.io/buidl-ai) for full access*
 > 
 
-## **Basic Settings**
+## **Basic Settings** {#basic-settings}
 
 ### **Edit Hackathon page content (Overview & Details & Custom Tabs)**
 
