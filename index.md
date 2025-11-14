@@ -5,7 +5,7 @@ nav_order: 1
 
 <img src="assets/dora-banner.jpg" alt="DoraHacks workspace banner" style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
 
-# Dora Wiki
+# **DoraHacks Wiki**
 
 [DoraHacks](https://dorahacks.io/) is the leading global hackathon community and open source developer incentive platform. DoraHacks provides toolkits for anyone to organize hackathons and fund early-stage ecosystem startups.
 
