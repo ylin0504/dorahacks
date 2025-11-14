@@ -4,7 +4,7 @@ parent: Features
 nav_order: 4
 ---
 
-## **MACI**
+# **MACI**
 
 Minimal Anti-Collusion Infrastructure (MACI) is a pioneering governance technology developed by the Ethereum community that is used in decision making processes to conceal the identities and voting choices of participants. This prevents collusion and coercion from affecting voting, which has been a key challenge facing decentralized governance in the past.
 
@@ -14,6 +14,6 @@ Once a wallet is connected to the Vota MACI system, the address is hidden within
 
 Projects on EVM-compatible chains can also choose to use MACI on their own blockchains. The process is similar to MACI on Dora Vota, but in this case participants are required to purchase and stake some DORA tokens on the Ethereum network in order to receive vcDORA to cast their votes. vcDORA received from staking has no value and cannot be traded, as it is linked to the user's wallet address. The requirement to stake DORA is an anti-sybil mechanism, which prevents bots from taking part in MACI voting.
 
-## **a-MACI**
+# **a-MACI**
 
 Anonymous-MACI builds on the privacy of participants enabled by MACI, but adds another layer of anonymity by hiding their identities from the organizers themselves. This system is useful when collusion between organizers and participants is a concern, as with a-MACI it’s also impossible for voters to prove how they voted after the round closes.
