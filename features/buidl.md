@@ -4,10 +4,9 @@ parent: Features
 nav_order: 2
 ---
 
-<aside>
-🔑 BUIDL page: https://dorahacks.io/buidl
+# **BUIDL**
 
-</aside>
+🔑 BUIDL page: https://dorahacks.io/buidl
 
 BUIDLs are projects listed on the DoraHacks platform. They can be entered individually into the BUIDLs page, or submitted as part of a hackathon.
 
