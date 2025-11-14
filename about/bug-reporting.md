@@ -4,7 +4,7 @@ parent: About
 nav_order: 6
 ---
 
-# Bug Reporting
+# **Bug Reporting**
 
 
 <b>📨 Spot an issue?</b>
