@@ -18,20 +18,20 @@ Let’s get started!
 
 **The Dashboard currently offers the following key features:**
 
-- [Basic Settings](#basic-settings)
+- [**Basic Settings**](#basic-settings)
   - [Edit Hackathon page content (Overview & Details & Custom Tabs)](#edit-hackathon-page-content)
   - [Customize Tracks](#customize-tracks)
   - [Customize Bounties](#customize-bounties)
   - [Managing Team Permissions (Administrators)](#managing-team-permissions)
-- [Registration Management](#registration-management)
+- [**Registration Management**](#registration-management)
   - [View/export participant list (Hackers)](#view-export-participant-list)
   - [BUIDL review (BUIDLs)](#buidl-review)
   - [Send group messages to participants (Group messages)](#group-messages)
-- [Prizes & Judging](#prizes-and-judging)
+- [**Prizes & Judging**](#prizes-and-judging)
   - [aMACI on-chain judging](#amaci-on-chain-judging)
   - [Winner Assignment (Tracks & Bounties)](#winner-assignment)
   - [Hackathon Marketing Summary (BUIDL AI Tool)](#hackathon-marketing-summary)
-- [Gather participant feedback / provide support](#feedback-support)
+- [**Gather participant feedback / provide support**](#feedback-support)
   - [Mailbox](#mailbox)
   - [Ask Question](#ask-question)
 
@@ -73,7 +73,7 @@ Let’s get started!
 - **Set Required Fields for Submissions:** Ensure complete project submissions by requiring participants to include a GitHub repository and/or a demo video.
 - **Details Page**: Click **Details** to edit content (Markdown supported)
 
-**Note: **Start/end dates & prize info** **cannot be manually changed** **post-launch** to maintain a fair participant experience. If changes are needed, contact DoraHacks via Telegram @dorahacksofficial or [Discord](https://discord.gg/gKT5DsWwQ5).*
+*Note: **Start/end dates & prize info** **cannot be manually changed post-launch** to maintain a fair participant experience. If changes are needed, contact DoraHacks via Telegram @dorahacksofficial or [Discord](https://discord.gg/gKT5DsWwQ5).*
 
 <img src="https://cdn.dorahacks.io/static/files/19a81d54bb96a8b04e9cdb54f4f89d65.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
@@ -158,7 +158,7 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 - **Bulk Export:** Select multiple Hackers to enable the **Export** option, allowing you to download information for chosen participants.
 - **Manage Public Visibility**: Hackathon organizers can now manage which users are visible in the public **Hackers** tab.
 
-****Please Note:** This feature only moderates visibility and does not prevent a user from submitting a BUIDL to the hackathon.*
+***Please Note:** This feature only moderates visibility and does not prevent a user from submitting a BUIDL to the hackathon.*
 
 <img src="https://cdn.dorahacks.io/static/files/19a82b8f39a6e8d0d1955fa40ef80477.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
@@ -261,7 +261,7 @@ Set up prizes, assign winners, and showcase results in one streamlined flow.
 
 > ***👇 BUIDL AI is here to help you!***
 > 
-> 
+
 > *For BUIDL AI subscribers: AI Judges speeds up prize judging with automated scoring and smart recommendations.*
 > 
 > *🔸**AI Judges for Tracks** – smarter prize evaluation
