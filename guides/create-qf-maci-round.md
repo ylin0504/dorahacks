@@ -10,4 +10,4 @@ If you would like to create a **Quadratic Funding (QF)**, **MACI**, or **aMACI**
 
 Contact DoraHacks on Telegram: @dorahacksofficial or Discord: [https://discord.gg/gKT5DsWwQ5](https://discord.gg/gKT5DsWwQ5)
 
-If you prefer to get in touch by email then you can reach out to: [hi@dorahacks.com](mailto:hi@dorahacks.com)
+If you prefer to get in touch by email then you can reach out to: [hi@dorahacks.com](hi@dorahacks.com)
