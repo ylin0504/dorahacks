@@ -6,7 +6,7 @@ nav_order: 1
 
 # **Hackathon**
 
-🔑 Hackathon page: https://dorahacks.io/hackathon
+🔑 Hackathon page: [https://dorahacks.io/hackathon](https://dorahacks.io/hackathon)
 
 A hackathon is an event in which an organizer sets out the details of a problem that they need solved, and developers come together in teams to submit their solutions in the hope of winning prizes.
 
