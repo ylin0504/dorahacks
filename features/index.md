@@ -4,6 +4,6 @@ nav_order: 3
 has_children: ture
 ---
 
-# Platform Features
+# **Platform Features**
 
 Overview of key components of the DoraHacks platform.
