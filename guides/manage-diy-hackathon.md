@@ -6,7 +6,7 @@ nav_order: 2
 
 # **How to Manage Your DIY hackathon**
 
-We are proud to present the **Organizer Dashboard**! This **all-in-one solution** acts as your centralized hub to ****handle ****each phase of hackathon management, from content editing and participant registrations, to submission review and result announcement.
+We are proud to present the [**Organizer Dashboard**](https://dashboard.dorahacks.io/)! This **all-in-one solution** acts as your centralized hub to handle each phase of hackathon management, from content editing and participant registrations, to submission review and result announcement.
 
 We are also excited to announce that **DoraHacks BUIDL AI is here!** (Built into the Dashboard)
 
@@ -15,8 +15,6 @@ BUIDL AI will **simplify hackathon management, boost efficiency, and maximize im
 Access the Organizer Dashboard here: [https://dashboard.dorahacks.io/](https://dashboard.dorahacks.io/)
 
 Let’s get started!
-
-**The Dashboard currently offers the following key features:**
 
 **The Dashboard currently offers the following key features:**
 
@@ -54,14 +52,14 @@ Let’s get started!
 > ***🔸Kickstarter** - Auto-generate your hackathon page
 > · Just enter basic info — theme, category, rules, and timeline — and Kickstarter instantly generates a draft page complete with title, timeline, tracks, and a pre-filled Details section.*
 > 
-> ![HackathonKickstarter-ezgif.com-crop.gif](How%20to%20Manage%20Your%20DIY%20hackathon/HackathonKickstarter-ezgif.com-crop.gif)
+> <img src="https://cdn.dorahacks.io/static/files/19a81d2c9cbd35efa3b2701438683489.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
-> ***🔸Hackathon Helper** - ****your 24/7 AI assistant*
+> ***🔸Hackathon Helper** - your 24/7 AI assistant*
 > 
 > *· Click the ✨ icon next to any section to get **AI-suggested** banners, titles, tags, and descriptions—then apply them to your page in one click.
 > · Click the orange cat icon anytime to ask questions like “How to add tracks?” and **get instant answers with direct action links**.*
 > 
-> ![Helper 7.5.gif](How%20to%20Manage%20Your%20DIY%20hackathon/Helper_7.5.gif)
+> <img src="https://cdn.dorahacks.io/static/files/19a81d44adb3bf0a4477afa4ca595d9b.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
 > *🚀 Launch in minutes with 80% of the work automated.
 > 🔗 [Subscribe to BUIDL AI](https://dorahacks.io/buidl-ai) for full access*
