@@ -75,31 +75,31 @@ Let’s get started!
 
 **Note: **Start/end dates & prize info** **cannot be manually changed** **post-launch** to maintain a fair participant experience. If changes are needed, contact DoraHacks via Telegram @dorahacksofficial or [Discord](https://discord.gg/gKT5DsWwQ5).*
 
-![1.png](How%20to%20Manage%20Your%20DIY%20hackathon/1.png)
+<img src="https://cdn.dorahacks.io/static/files/19a81d54bb96a8b04e9cdb54f4f89d65.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-![submission requirements.png](How%20to%20Manage%20Your%20DIY%20hackathon/submission_requirements.png)
+<img src="https://cdn.dorahacks.io/static/files/19a81d60bd06b612693f0254458accd3.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-![2.png](How%20to%20Manage%20Your%20DIY%20hackathon/2.png)
+<img src="https://cdn.dorahacks.io/static/files/19a81d574b9f3c10b57cdad47ffb85f3.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 - **Set custom questions for participants/registrants**
     - **Ask BUIDLers:** Set custom questions for participants to answer when submitting their BUIDL/project to the hackathon.
     - **Ask Hackers:** Add custom questions to the registration form for participants signing up for the event.
 
-![3.png](How%20to%20Manage%20Your%20DIY%20hackathon/3.png)
+<img src="https://cdn.dorahacks.io/static/files/19a81d65c56f22c3fa7b16044e0ada66.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 - **Customize Tabs**
     - **Add/Modify Tabs:** Click **Custom Tab** to create custom pages. You can add up to five custom tabs!
     
-    ![4.png](How%20to%20Manage%20Your%20DIY%20hackathon/4.png)
+  <img src="https://cdn.dorahacks.io/static/files/19a81d685f1c4d31751761c48e7a33e0.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
     - **Tab Management：**
         - **Tab Reordering**: Click **Edit Order** to reorder any custom tabs you’ve created on your hackathon page.
         
-        ![20240670 (1).jpg](How%20to%20Manage%20Your%20DIY%20hackathon/032fcacf-7e0d-4335-bbf0-91c020f8434d.png)
+      <img src="https://cdn.dorahacks.io/static/files/19a81d6c425605c61adabc242ff85bc5.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
         
         - **Change Default Tab Visibility：** Navigate to **Overview > General > Tab Visibility** to adjust the visibility of default tabs like “BUIDLs”, "Ideas", "Ask Questions" and “Join a Team” on your hackathon page.
         
-        ![5.png](How%20to%20Manage%20Your%20DIY%20hackathon/5.png)
+      <img src="https://cdn.dorahacks.io/static/files/19a81d6f382a8c7d16830ef44a688e96.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
         
 
 ### **Customize Tracks**
@@ -111,22 +111,24 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 
 **Pro tip: You can edit Track names after the Hackathon starts. If you accidentally create an extra Track, contact DoraHacks via Telegram (@dorahacksofficial) or [Discord](https://discord.gg/gKT5DsWwQ5) for assistance.* 
 
-![screenshot-20250718-162717.png](How%20to%20Manage%20Your%20DIY%20hackathon/screenshot-20250718-162717.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82b4a4f92ced73634d5b4a058081d.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 ### **Customize Bounties**
 
 - In **Bounty Setting > Settings & sponsors,** choose if bounty applications are **Required** or **Optional**.
 - **Add Sponsors:** Add multiple hackathon sponsors here. Your organization (e.g., DoraHacks) is the default sponsor, but you can add others.
     
-    ![screenshot-20250718-164836.png](How%20to%20Manage%20Your%20DIY%20hackathon/screenshot-20250718-164836.png)
+
+  <img src="https://cdn.dorahacks.io/static/files/19a82b4ed365a3ec0f20a7f469bb154b.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
 - **Manage Bounties:** In the **Bounties** tab, set the maximum number of bounties each BUIDL can apply for, and add or edit bounty details for each sponsor.
     
-    ![screenshot-20250718-164856.png](How%20to%20Manage%20Your%20DIY%20hackathon/screenshot-20250718-164856.png)
+
+  <img src="https://cdn.dorahacks.io/static/files/19a82b539bfc28e278b61d34bceb19bf.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
     **Add and Invite Sponsors**: After creating sponsors, you can invite them via email. Invited sponsors can independently add or update their bounty details without affecting other hackathon settings.
     
-    ![screenshot-20250718-215826.png](How%20to%20Manage%20Your%20DIY%20hackathon/screenshot-20250718-215826.png)
+  <img src="https://cdn.dorahacks.io/static/files/19a82b5a38015526ecb83284488bda7b.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
     **Once the hackathon starts, bounties cannot be deleted. If you need help managing bounties, please contact DoraHacks on Telegram: @dorahacksofficial or [Discord](https://discord.gg/gKT5DsWwQ5), and we will assist you.*
     
@@ -137,15 +139,15 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 - **Review permissions** before sending invites using the role guide.
 - **Promote members** to admin after they accept invites.
 
-![11.png](How%20to%20Manage%20Your%20DIY%20hackathon/11.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82b5e05038f10b2781504058800af.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-![12.png](How%20to%20Manage%20Your%20DIY%20hackathon/fe642cc8-7f52-4484-9ea1-26d6a5fe841a.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82b656c55ddf7e23ecb344e3b4232.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-![13.png](How%20to%20Manage%20Your%20DIY%20hackathon/13.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82b7d7c3aa811dd82c8f4d8e93b77.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 - **Transferring Admin Rights:** Click your avatar, go to **Organizations**, then hit **Transfer Ownership** to pass management permissions to another team member.
 
-![截屏2024-10-12 17.57.32.png](How%20to%20Manage%20Your%20DIY%20hackathon/%25E6%2588%25AA%25E5%25B1%258F2024-10-12_17.57.32.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82b826854d49ec2ad5114eddb2229.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 ## **Registration Management**
 
@@ -158,7 +160,7 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 
 ****Please Note:** This feature only moderates visibility and does not prevent a user from submitting a BUIDL to the hackathon.*
 
-![screenshot-20250819-001713.png](How%20to%20Manage%20Your%20DIY%20hackathon/screenshot-20250819-001713.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82b8f39a6e8d0d1955fa40ef80477.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 ### **BUIDL review (BUIDLs)**
 
@@ -168,7 +170,7 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 
 ***Important:** Approving a BUIDL means it gets listed on the hackathon page — it does not  equal awarding a prize. All projects that meet your minimum requirements should be approved.*
 
-![screenshot-20250718-155252.png](How%20to%20Manage%20Your%20DIY%20hackathon/screenshot-20250718-155252.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82b9bab78e21752f3d6d4d99be00f.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 > ***👇 BUIDL AI is here to help you!***
 > 
@@ -181,7 +183,7 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 > · Set score thresholds for auto-approval, removing the need for you to check through each project that’s submitted. 
 > · Each project also shows a status marker in the top-right corner — a ⭐ for new projects, and a 🔴 if it’s been submitted to 5 or more hackathons.*
 > 
-> ![BUIDL Review-7.5.gif](How%20to%20Manage%20Your%20DIY%20hackathon/BUIDL_Review-7.5.gif)
+> <img src="https://cdn.dorahacks.io/static/files/19a82ba6d8839df8b14569c47ad943cd.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
 > *🔗 [Subscribe to BUIDL AI](https://dorahacks.io/buidl-ai) for full access*
 > 
@@ -197,15 +199,15 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
     - BUIDL teams from a particular Track
 - Simply pick your target group, write your message, and hit send. Your message will reach all selected participants at once.
     
-    ![WX20240718-151735@2x.png](How%20to%20Manage%20Your%20DIY%20hackathon/WX20240718-1517352x.png)
+  <img src="https://cdn.dorahacks.io/static/files/19a82bb4d630666539a338f4147a44a3.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
 - Additionally, you can now **publicly display your message** in a dedicated **Announcements** tab on your hackathon page, ensuring no participant misses an important update.
     
-    ![Announcements Tab.gif](How%20to%20Manage%20Your%20DIY%20hackathon/Announcements_Tab.gif)
+  <img src="https://cdn.dorahacks.io/static/files/19a82bbd116e005bbaab0534f768a3a7.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
 - To review your sent messages, click the mailbox icon in the lower right corner to access your sending history.
     
-    ![15.png](How%20to%20Manage%20Your%20DIY%20hackathon/15.png)
+  <img src="https://cdn.dorahacks.io/static/files/19a82bc91b42bcb63df0c874319a612a.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
 
 ## Prizes & Judging
@@ -216,34 +218,34 @@ Organizers can now set up and activate aMACI to protect the integrity of the jud
 
 - Go to the **aMACI on-chain judging** section, select **New Round** to create a new round, and fill in the required details (such as time, judging criteria, judge list, voice credits, and BUDIL list).
 
-![WX20241030-204630@2x.png](How%20to%20Manage%20Your%20DIY%20hackathon/WX20241030-2046302x.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82bd76c08c67ec422e7c422da5059.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-![WX20241030-204729@2x.png](How%20to%20Manage%20Your%20DIY%20hackathon/WX20241030-2047292x.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82be3778541ad9100f0d4b81a4e43.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 **The BUDIL list can be exported from the "BUIDLs" section.*
 
-![WX20241030-204744@2x.png](How%20to%20Manage%20Your%20DIY%20hackathon/WX20241030-2047442x.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82bebfb9fe2fdb415ddb44e9ab087.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 - Connect your wallet and click **Deploy**. (You will need some $DORA for gas fee.)
 
 **Note: Start and end times can’t be changed once the round is created. Please make sure the timing works for everyone.*
 
-![WX20241030-223058@2x.png](How%20to%20Manage%20Your%20DIY%20hackathon/WX20241030-2230582x.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82bf16d4df6c2900f2eb4a1ab642b.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 - After deployment, judges will receive an invitation to the aMACI judging round. You can track how many judges have received the invitations, signed up, and updated their keys. (With aMACI, no one, including the admin, knows who performed the key setup.)
 
 **After receiving the invitation, judges can deactivate the key, vote, and revote during the voting round.*
 
-![WX20241030-223250@2x.png](How%20to%20Manage%20Your%20DIY%20hackathon/WX20241030-2232502x.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82bf62ecfb713b07b0d4496d90250.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-![WX20241030-235829@2x.png](How%20to%20Manage%20Your%20DIY%20hackathon/WX20241030-2358292x.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82bf90200d300290732f41be9fd0b.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 - When the time ends, the voting round will automatically move into Tallying, generating zero-knowledge proofs and voting results.
 - Voting is now complete! All information can be viewed in the dropdown on the same page.
 
-![WX20241030-235952@2x.png](How%20to%20Manage%20Your%20DIY%20hackathon/WX20241030-2359522x.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82c0001a80ce22658f364bdfb7cb7.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-![WX20241030-222858@2x.png](How%20to%20Manage%20Your%20DIY%20hackathon/WX20241030-2228582x.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82c07ec64f644e4fd6014d70ab8af.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 ### **Winner Assignment (Tracks & Bounties)**
 
@@ -253,7 +255,7 @@ Set up prizes, assign winners, and showcase results in one streamlined flow.
 - After your hackathon ends, move to the **Winner Assignment** section to assign winning teams to each prize.
 - Once ready, click **Announce** to publish your winner list. Results will appear under the **Winner** tab on your hackathon page.
 
-![Track winner annoucement.gif](How%20to%20Manage%20Your%20DIY%20hackathon/Track_winner_annoucement.gif)
+<img src="https://cdn.dorahacks.io/static/files/19a8350f589334d61ccc4924edda04ca.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 - **The Bounty Winner Assignment process is similar:** simply go to **Bounty Winner Assignment**, select winners under each Bounty name, and publish the results. You can choose to make the announcement public or private.
 
@@ -266,7 +268,7 @@ Set up prizes, assign winners, and showcase results in one streamlined flow.
 > · Click **Run AI Judges** to automatically score all submissions per prize.
 > · View detailed results in Winner Assignment, including **Judging Criteria Matching Rate** and **AI-generated reasoning**, to confidently finalize winners.*
 > 
-> ![AI Judging.gif](How%20to%20Manage%20Your%20DIY%20hackathon/AI_Judging.gif)
+> <img src="https://cdn.dorahacks.io/static/files/19a82ca3ec46085eb41e81e4fb4b6fee.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
 > *🔸**AI Judges for Bounties** – smart bounty winner suggestions*
 > 
@@ -274,7 +276,7 @@ Set up prizes, assign winners, and showcase results in one streamlined flow.
 > 
 > *· Review AI recommendations in the Bounty Winner Assignment and publish your final winners.*
 > 
-> ![AI Judges for Bounties.gif](How%20to%20Manage%20Your%20DIY%20hackathon/AI_Judges_for_Bounties.gif)
+> <img src="https://cdn.dorahacks.io/static/files/19a82cae5874168d40776d44689b2c9d.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
 > *🔗 [Subscribe to BUIDL AI](https://dorahacks.io/buidl-ai) for full access*
 > 
@@ -289,13 +291,13 @@ With just one click, **Hackathon Marketing Summary** instantly transforms your w
 
 3. Share on **X (Twitter)** or through [**DoraHacks’ Yakihonne**](https://yakihonne.com/users/npub175mfsjtuupc38xg0cw2y237326q6sy75285qne8ztlcsau6prxsqs42fxn) for a direct link.
 
-[Copy of Join a team-VEED.mp4](How%20to%20Manage%20Your%20DIY%20hackathon/Copy_of_Join_a_team-VEED.mp4)
+<img src="https://cdn.dorahacks.io/static/files/19a82cd341b37e9ae058aa74ee1b1251.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 Once published, all users can access the Hackathon Marketing Summary from the main hackathon page, to the right of the hackathon title.
 
-![screenshot-20250402-184627.png](How%20to%20Manage%20Your%20DIY%20hackathon/screenshot-20250402-184627.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82cdb285ddcdeb2153b64b1aa9cb3.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-![screenshot-20250402-184837.png](How%20to%20Manage%20Your%20DIY%20hackathon/screenshot-20250402-184837.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82cdf475457a619387b346c9a8a8c.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 ## Gather participant feedback/provide support
 
@@ -303,14 +305,14 @@ Once published, all users can access the Hackathon Marketing Summary from the ma
 
 - Check for questions and input from BUIDLers in DoraHacks Mail and respond directly. **Click the mailbox icon** in the lower right corner to view the messages.
     
-    ![15.png](How%20to%20Manage%20Your%20DIY%20hackathon/15%201.png)
+  <img src="https://cdn.dorahacks.io/static/files/19a82bc91b42bcb63df0c874319a612a.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
 
 ### **Ask Qustion**
 
 - You can view participant questions about the hackathon in the **Ask Qustion tab** on the hackathon page and respond to them directly.
 
-![截屏2024-10-12 17.21.42.png](How%20to%20Manage%20Your%20DIY%20hackathon/%25E6%2588%25AA%25E5%25B1%258F2024-10-12_17.21.42.png)
+<img src="https://cdn.dorahacks.io/static/files/19a82ce49ed0502fdffd1244575ba04f.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 > ***👇 BUIDL AI is here to help you!***
 > 
@@ -322,7 +324,7 @@ Once published, all users can access the Hackathon Marketing Summary from the ma
 > · Activate Smart Auto-Reply in the Dashboard’s Ask Questions tab.
 > · BUIDL AI uses its built-in Knowledge Base to reply to hackers’ questions submitted via the ‘Ask Questions’ feature — usually within 10 minutes.*
 > 
-> ![auto-reply.gif](How%20to%20Manage%20Your%20DIY%20hackathon/auto-reply.gif)
+> <img src="https://cdn.dorahacks.io/static/files/19a82ce963b16e2408451954128a30de.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
 > *🔗 [Subscribe to BUIDL AI](https://dorahacks.io/buidl-ai) for full access*
 > 
