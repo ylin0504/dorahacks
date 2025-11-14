@@ -4,6 +4,6 @@ nav_order: 4
 has_children: true
 ---
 
-# Guides
+# **Guides**
 
 Step by step instructions for organizers and builders.
