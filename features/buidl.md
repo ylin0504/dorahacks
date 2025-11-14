@@ -6,7 +6,7 @@ nav_order: 2
 
 # **BUIDL**
 
-🔑 BUIDL page: https://dorahacks.io/buidl
+🔑 BUIDL page: [https://dorahacks.io/buidl](https://dorahacks.io/buidl)
 
 BUIDLs are projects listed on the DoraHacks platform. They can be entered individually into the BUIDLs page, or submitted as part of a hackathon.
 
