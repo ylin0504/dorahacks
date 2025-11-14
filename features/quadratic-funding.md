@@ -3,6 +3,7 @@ title: Quadratic Funding
 parent: Features
 nav_order: 3
 ---
+# **Quadratic Funding**
 
 Quadratic Funding is an innovative **crowd-funding** mechanism that empowers participants to vote for projects in a grant allocation by donating to the projects themselves. The total amount of contributions received by a project determines the proportion of the **matching pool** of grant funding that the project receives. In this way, an ecosystem’s community and wider stakeholder base are involved in the governance and grant allocation process, while projects obtain extra funding from donations in addition to the grant pool itself.
 
