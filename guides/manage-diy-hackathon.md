@@ -41,7 +41,7 @@ Let’s get started!
 - Log in to the [**Organizer Dashboard**](https://dashboard.dorahacks.io/)
 - Or click "Manage Hackathon" on your event page
 
-****New to DoraHacks?** Check our [**Hackathon Creation Guide**](https://dorahacks.io/blog/guides/how-to-create-a-hackathon/)  for tips.*
+***New to DoraHacks?** Check our [**Hackathon Creation Guide**](https://dorahacks.io/blog/guides/how-to-create-a-hackathon/)  for tips.*
 
 > ***👇 BUIDL AI is here to help you!***
 > 
@@ -67,7 +67,7 @@ Let’s get started!
 
 ## **Basic Settings** {#basic-settings}
 
-### **Edit Hackathon page content (Overview & Details & Custom Tabs)**
+### **Edit Hackathon page content (Overview & Details & Custom Tabs)** {#edit-hackathon-page-content}
 
 - **Basic Settings**: Go to **Overview** to edit event type, title, banner, tags, etc.
 - **Set Required Fields for Submissions:** Ensure complete project submissions by requiring participants to include a GitHub repository and/or a demo video.
@@ -102,7 +102,7 @@ Let’s get started!
       <img src="https://cdn.dorahacks.io/static/files/19a81d6f382a8c7d16830ef44a688e96.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
         
 
-### **Customize Tracks**
+### **Customize Tracks** {#customize-tracks}
 
 - **Create and edit Tracks:** 
 Add new Tracks, rename them, and choose whether they are single-selectable or multi-selectable. You can also add descriptions or judging criteria to further inform hackers.
@@ -113,7 +113,7 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 
 <img src="https://cdn.dorahacks.io/static/files/19a82b4a4f92ced73634d5b4a058081d.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-### **Customize Bounties**
+### **Customize Bounties** {#customize-bounties}
 
 - In **Bounty Setting > Settings & sponsors,** choose if bounty applications are **Required** or **Optional**.
 - **Add Sponsors:** Add multiple hackathon sponsors here. Your organization (e.g., DoraHacks) is the default sponsor, but you can add others.
@@ -133,7 +133,7 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
     **Once the hackathon starts, bounties cannot be deleted. If you need help managing bounties, please contact DoraHacks on Telegram: @dorahacksofficial or [Discord](https://discord.gg/gKT5DsWwQ5), and we will assist you.*
     
 
-### **Managing Team Permissions (Administrators)**
+### **Managing Team Permissions (Administrators)** {#managing-team-permissions}
 
 - **Add Admins:** Go to **Administrators > Add Admin**, then navigate to **Settings** to invite members and assign roles (Admin/Member).
 - **Review permissions** before sending invites using the role guide.
@@ -149,9 +149,9 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 
 <img src="https://cdn.dorahacks.io/static/files/19a82b826854d49ec2ad5114eddb2229.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-## **Registration Management**
+## **Registration Management** {#registration-management}
 
-### **View/export participant list (Hackers)**
+### **View/export participant list (Hackers)** {#view-export-participant-list}
 
 - **Access Hacker Information:** Click **Hackers** on the left to view the full list.
 - **Individual Profiles:** Click on any Hacker to see their detailed information.
@@ -162,7 +162,7 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 
 <img src="https://cdn.dorahacks.io/static/files/19a82b8f39a6e8d0d1955fa40ef80477.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-### **BUIDL review (BUIDLs)**
+### **BUIDL review (BUIDLs)** {#buidl-review}
 
 - **View BUIDLs:** Click **BUIDLs** on the left menu to view all submissions and click to expand details.
 - **Batch BUIDLs Review:** Select multiple BUIDLs to approve/undo approval/mark as rejected in bulk.
@@ -188,7 +188,7 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 > *🔗 [Subscribe to BUIDL AI](https://dorahacks.io/buidl-ai) for full access*
 > 
 
-### **Send Group Messages to Participants (Group messages)**
+### **Send Group Messages to Participants (Group messages)** {#group-messages}
 
 - Head over to the **Group Messages** section to broadcast notifications.
     
@@ -210,9 +210,9 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
   <img src="https://cdn.dorahacks.io/static/files/19a82bc91b42bcb63df0c874319a612a.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
 
-## Prizes & Judging
+## Prizes & Judging {#prizes-and-judging}
 
-### **aMACI on-chain judging**
+### **aMACI on-chain judging** {#amaci-on-chain-judging}
 
 Organizers can now set up and activate aMACI to protect the integrity of the judging process.
 
@@ -247,7 +247,7 @@ Organizers can now set up and activate aMACI to protect the integrity of the jud
 
 <img src="https://cdn.dorahacks.io/static/files/19a82c07ec64f644e4fd6014d70ab8af.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-### **Winner Assignment (Tracks & Bounties)**
+### **Winner Assignment (Tracks & Bounties)** {#winner-assignment}
 
 Set up prizes, assign winners, and showcase results in one streamlined flow.
 
@@ -281,7 +281,7 @@ Set up prizes, assign winners, and showcase results in one streamlined flow.
 > *🔗 [Subscribe to BUIDL AI](https://dorahacks.io/buidl-ai) for full access*
 > 
 
-### **Hackathon Marketing Summary [BUIDL AI Tool]**
+### **Hackathon Marketing Summary [BUIDL AI Tool]** {#hackathon-marketing-summary}
 
 With just one click, **Hackathon Marketing Summary** instantly transforms your winners and highlights into a well-rounded article.
 
@@ -299,16 +299,16 @@ Once published, all users can access the Hackathon Marketing Summary from the ma
 
 <img src="https://cdn.dorahacks.io/static/files/19a82cdf475457a619387b346c9a8a8c.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-## Gather participant feedback/provide support
+## Gather participant feedback/provide support {#feedback-support}
 
-### **Mailbox**
+### **Mailbox** {#mailbox}
 
 - Check for questions and input from BUIDLers in DoraHacks Mail and respond directly. **Click the mailbox icon** in the lower right corner to view the messages.
     
   <img src="https://cdn.dorahacks.io/static/files/19a82bc91b42bcb63df0c874319a612a.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
     
 
-### **Ask Qustion**
+### **Ask Qustion** {#ask-question}
 
 - You can view participant questions about the hackathon in the **Ask Qustion tab** on the hackathon page and respond to them directly.
 
