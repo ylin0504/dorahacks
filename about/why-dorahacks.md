@@ -4,7 +4,7 @@ parent: About
 nav_order: 3
 ---
 
-# Why DoraHacks?
+# **Why DoraHacks?**
 
 ## **Comprehensive Platform and Infrastructure**
 
