@@ -1,7 +1,7 @@
 ---
 title: Features
 nav_order: 3
-has_children: fause 
+has_children: ture
 ---
 
 # Platform Features
