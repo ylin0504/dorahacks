@@ -4,9 +4,9 @@ parent: About
 nav_order: 5
 ---
 
-# Contact Us
+# **Contact Us**
 
-<aside>
+
 🔑 Feel free to contact us via the following channels:
 
 - Telegram: [https://t.me/dorahacksofficial](https://t.me/dorahacksofficial)
@@ -14,4 +14,4 @@ nav_order: 5
 - Twitter: [https://twitter.com/DoraHacks](https://twitter.com/DoraHacks)
 - Email: [hi@dorahacks.com](mailto:hi@dorahacks.com)
 - DM us on DoraHacks plarform: [https://dorahacks.io/hacker/DoraHacks?showMail=true](https://dorahacks.io/hacker/DoraHacks?showMail=true)
-</aside>
+
