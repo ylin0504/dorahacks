@@ -316,23 +316,20 @@ Organizers can now distribute hackathon prizes directly through the **Prize Dist
 
 Follow the steps below to set up and manage prize payouts:
 
-1. **Set up your payout account**  
-   Initiate payout setup in the Organizer Dashboard.  
-   *GitHub account verification is required.*
+1. **Set up your account**  
+   Set up a payout account through the Organizer Dashboard (GitHub verification required)
 
-2. **Deposit prize funds**  
-   Add funds via bank transfer or USDC (Base).  
-   All deposits are processed by Merit Systems.
+2. **Fund your account**  
+   Deposit the prize funds via bank transfer or USDC (Base), processed by Merit Systems.
 
-3. **Verify winners**  
-   Confirm the GitHub accounts of winning teams before disbursement.
+3. **Send Github request**  
+   Verify winners through GitHub accounts.
 
-4. **Distribute prizes**  
-   Select winners and execute payouts.  
-   Merit Systems will handle the transfer and compliance process.
+4. **Send prizes**  
+   Distribute prizes with just a few clicks. Merit Systems handles the disbursement.
 
 5. **Track payout activity**  
-   View all completed and pending transactions in the **Activity** section.
+   Track every payout seamlessly in the Activity section.
 
 
 ## Gather participant feedback/provide support {#feedback-support}
