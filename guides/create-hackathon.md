@@ -4,9 +4,9 @@ parent: Guides
 nav_order: 1
 ---
 
-DoraHacks, a global hackathon organizer and leading Web3 developer platform, empowers developers worldwide to collaborate and fund ideas through hackathons, grants, and public good staking. We offer hackathon hosting and toolkits for Web3 projects, DAOs, and communities. Follow these steps to create your event:
+# **How to Create Your Own Hackathon**
 
-## **How to Host a Hackathon on DoraHacks**
+DoraHacks, a global hackathon organizer and leading Web3 developer platform, empowers developers worldwide to collaborate and fund ideas through hackathons, grants, and public good staking. We offer hackathon hosting and toolkits for Web3 projects, DAOs, and communities. Follow these steps to create your event:
 
 ### **Step 1: Access the Organizer Dashboard**
 
