@@ -15,3 +15,9 @@ plugins:
 
 just_the_docs:
   search_enabled: true
+
+just_the_docs:
+  aux_nav:
+    ...
+  custom_css:
+    - assets/css/custom.css
