@@ -125,6 +125,7 @@ This includes editing event details, managing project reviews, and handling eval
   - [aMACI on-chain judging](/dorahacks/guides/manage-diy-hackathon/#amaci-on-chain-judging)
   - [Winner Assignment (Tracks & Bounties)](/dorahacks/guides/manage-diy-hackathon/#winner-assignment-tracks-and-bounties)
   - [Hackathon Marketing Summary (Summary)](/dorahacks/guides/manage-diy-hackathon/#hackathon-marketing-summary-buidl-ai-tool)
+  - [Prize Distribution with Merit Systems](/dorahacks/guides/manage-diy-hackathon/#prize-distribution)
 
 - [**Gather participant feedback / provide support**](/dorahacks/guides/manage-diy-hackathon/#gather-participant-feedbackprovide-support)
   - [Mailbox](/dorahacks/guides/manage-diy-hackathon/#mailbox)
