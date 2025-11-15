@@ -50,20 +50,23 @@ Let’s get started!
 > ***For BUIDL AI subscribers**: Hackathon Kickstarter and Hackathon Helper by DoraHacks **BUIDL AI 3.0** accelerates page setup!*
 > 
 > 
-> ***🔸Kickstarter** - Auto-generate your hackathon page
-> · Just enter basic info — theme, category, rules, and timeline — and Kickstarter instantly generates a draft page complete with title, timeline, tracks, and a pre-filled Details section.*
+> ***🔸Kickstarter** - Auto-generate your hackathon page*
+> 
+> *· Just enter basic info — theme, category, rules, and timeline — and Kickstarter instantly generates a draft page complete with title, timeline, tracks, and a pre-filled Details section.*
 > 
 > <img src="https://cdn.dorahacks.io/static/files/19a81d2c9cbd35efa3b2701438683489.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
 > ***🔸Hackathon Helper** - your 24/7 AI assistant*
 > 
-> *· Click the ✨ icon next to any section to get **AI-suggested** banners, titles, tags, and descriptions—then apply them to your page in one click.
-> · Click the orange cat icon anytime to ask questions like “How to add tracks?” and **get instant answers with direct action links**.*
+> *· Click the ✨ icon next to any section to get **AI-suggested** banners, titles, tags, and descriptions—then apply them to your page in one click.*
+> 
+> *· Click the orange cat icon anytime to ask questions like “How to add tracks?” and **get instant answers with direct action links**.*
 > 
 > <img src="https://cdn.dorahacks.io/static/files/19a81d44adb3bf0a4477afa4ca595d9b.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
-> *🚀 Launch in minutes with 80% of the work automated.
-> 🔗 [Subscribe to BUIDL AI](https://dorahacks.io/buidl-ai) for full access*
+> *🚀 Launch in minutes with 80% of the work automated.*
+> 
+> *🔗 [Subscribe to BUIDL AI](https://dorahacks.io/buidl-ai) for full access*
 > 
 
 ## **Basic Settings** {#basic-settings}
@@ -179,10 +182,13 @@ Click **Publish Tracks** to show these Tracks as a tab on your public hackathon 
 > ***For BUIDL AI subscribers:** BUIDL Review helps you speed up initial review through automated scoring and project analysis.*
 > 
 > 
-> ***🔸BUIDL Review** - AI-powered evaluation & auto-approval
-> · The upgraded AI Score tool scans each project’s page, code, and team background to highlight the best ones.
-> · Set score thresholds for auto-approval, removing the need for you to check through each project that’s submitted. 
-> · Each project also shows a status marker in the top-right corner — a ⭐ for new projects, and a 🔴 if it’s been submitted to 5 or more hackathons.*
+> ***🔸BUIDL Review** - AI-powered evaluation & auto-approval*
+> 
+> *· The upgraded AI Score tool scans each project’s page, code, and team background to highlight the best ones.*
+> 
+> *· Set score thresholds for auto-approval, removing the need for you to check through each project that’s submitted.*
+> 
+> *· Each project also shows a status marker in the top-right corner — a ⭐ for new projects, and a 🔴 if it’s been submitted to 5 or more hackathons.*
 > 
 > <img src="https://cdn.dorahacks.io/static/files/19a82ba6d8839df8b14569c47ad943cd.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
@@ -263,11 +269,13 @@ Set up prizes, assign winners, and showcase results in one streamlined flow.
 > ***👇 BUIDL AI is here to help you!***
 > 
 
-> *For BUIDL AI subscribers: AI Judges speeds up prize judging with automated scoring and smart recommendations.*
+> ***For BUIDL AI subscribers**: AI Judges speeds up prize judging with automated scoring and smart recommendations.*
 > 
-> *🔸**AI Judges for Tracks** – smarter prize evaluation
-> · Click **Run AI Judges** to automatically score all submissions per prize.
-> · View detailed results in Winner Assignment, including **Judging Criteria Matching Rate** and **AI-generated reasoning**, to confidently finalize winners.*
+> *🔸**AI Judges for Tracks** – smarter prize evaluation*
+> 
+> *· Click **Run AI Judges** to automatically score all submissions per prize.*
+> 
+> *· View detailed results in Winner Assignment, including **Judging Criteria Matching Rate** and **AI-generated reasoning**, to confidently finalize winners.*
 > 
 > <img src="https://cdn.dorahacks.io/static/files/19a82ca3ec46085eb41e81e4fb4b6fee.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
@@ -345,12 +353,14 @@ Follow the steps below to set up and manage prize payouts:
 > ***👇 BUIDL AI is here to help you!***
 > 
 
-> ***For BUIDL AI subscribers: Smart Auto-Reply simplifies participant support by automatically answering questions.***
+> ***For BUIDL AI subscribers**: Smart Auto-Reply simplifies participant support by automatically answering questions.*
 > 
 > 
 > *🔸**Smart Auto-Reply** – instant AI-powered answers for participants
-> · Activate Smart Auto-Reply in the Dashboard’s Ask Questions tab.
-> · BUIDL AI uses its built-in Knowledge Base to reply to hackers’ questions submitted via the ‘Ask Questions’ feature — usually within 10 minutes.*
+> 
+> *· Activate Smart Auto-Reply in the Dashboard’s Ask Questions tab.*
+> 
+> *· BUIDL AI uses its built-in Knowledge Base to reply to hackers’ questions submitted via the ‘Ask Questions’ feature — usually within 10 minutes.*
 > 
 > <img src="https://cdn.dorahacks.io/static/files/19a82ce963b16e2408451954128a30de.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 > 
