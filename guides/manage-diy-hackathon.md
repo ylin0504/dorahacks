@@ -31,6 +31,7 @@ Let’s get started!
   - [aMACI on-chain judging](#amaci-on-chain-judging)
   - [Winner Assignment (Tracks & Bounties)](#winner-assignment)
   - [Hackathon Marketing Summary (BUIDL AI Tool)](#hackathon-marketing-summary)
+  - [Prize Distribution with Merit Systems](#prize-distribution)
 - [**Gather participant feedback / provide support**](#feedback-support)
   - [Mailbox](#mailbox)
   - [Ask Question](#ask-question)
@@ -298,6 +299,33 @@ Once published, all users can access the Hackathon Marketing Summary from the ma
 <img src="https://cdn.dorahacks.io/static/files/19a82cdb285ddcdeb2153b64b1aa9cb3.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 <img src="https://cdn.dorahacks.io/static/files/19a82cdf475457a619387b346c9a8a8c.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
+### **Prize Distribution with Merit Systems** {#prize-distribution}
+
+Organizers can now distribute hackathon prizes directly through the **Prize Distribution** feature, powered by Merit Systems.
+
+<img src="https://cdn.dorahacks.io/static/files/19a3938d22514966aaf9c4d4b82be26b.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
+Follow the steps below to set up and manage prize payouts:
+
+1. **Set up your payout account**  
+   Initiate payout setup in the Organizer Dashboard.  
+   *GitHub account verification is required.*
+
+2. **Deposit prize funds**  
+   Add funds via bank transfer or USDC (Base).  
+   All deposits are processed by Merit Systems.
+
+3. **Verify winners**  
+   Confirm the GitHub accounts of winning teams before disbursement.
+
+4. **Distribute prizes**  
+   Select winners and execute payouts.  
+   Merit Systems will handle the transfer and compliance process.
+
+5. **Track payout activity**  
+   View all completed and pending transactions in the **Activity** section.
+
 
 ## Gather participant feedback/provide support {#feedback-support}
 
