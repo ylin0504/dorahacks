@@ -45,7 +45,7 @@ DoraHacks, a global hackathon organizer and leading Web3 developer platform, emp
         
         **Note*: Timeframes and prize details become locked once live. Contact @dorahacksofficial on [Telegram](https://t.me/dorahacksofficial) or [Discord](https://discord.gg/gKT5DsWwQ5) for post-launch changes.
         
-        ***For detailed guidelines on each section, please refer to [Hackathon management guide](https://dorahacks.io/blog/diy-your-hackathon/).*
+        ***For detailed guidelines on each section, please refer to [Hackathon management guide](https://hellodorahacks.github.io/dorahacks-wiki/guides/manage-diy-hackathon/).*
         
         <img src="https://cdn.dorahacks.io/static/files/19a868c80b92e6c95d250b64cfab66fc.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
