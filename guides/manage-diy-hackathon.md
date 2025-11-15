@@ -41,12 +41,12 @@ Let’s get started!
 - Log in to the [**Organizer Dashboard**](https://dashboard.dorahacks.io/)
 - Or click "Manage Hackathon" on your event page
 
-***New to DoraHacks?** Check our [**Hackathon Creation Guide**](https://dorahacks.io/blog/guides/how-to-create-a-hackathon/)  for tips.*
+***New to DoraHacks?** Check our [**Hackathon Creation Guide**](https://ylin0504.github.io/dorahacks/guides/create-hackathon/)  for tips.*
 
 > ***👇 BUIDL AI is here to help you!***
 > 
 
-> ***For BUIDL AI subscribers**: Hackathon Kickstarter and Hackathon Helper by DoraHacks **BUIDL AI 2.5** accelerates page setup!*
+> ***For BUIDL AI subscribers**: Hackathon Kickstarter and Hackathon Helper by DoraHacks **BUIDL AI 3.0** accelerates page setup!*
 > 
 > 
 > ***🔸Kickstarter** - Auto-generate your hackathon page
