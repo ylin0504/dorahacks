@@ -110,22 +110,22 @@ This includes editing event details, managing project reviews, and handling eval
 
 **The Dashboard currently offers the following key features:**
 
-- [Basic Settings](/dorahacks/guides/manage-diy-hackathon/#basic-settings)
+- [**Basic Settings**](/dorahacks/guides/manage-diy-hackathon/#basic-settings)
   - [Edit Hackathon page content (Overview & Details & Custom Tabs)](/dorahacks/guides/manage-diy-hackathon/#edit-hackathon-page-content-overview--details--custom-tabs)
   - [Customize Tracks](/dorahacks/guides/manage-diy-hackathon/#customize-tracks)
   - [Customize Bounties](/dorahacks/guides/manage-diy-hackathon/#customize-bounties)
   - [Managing Team Permissions (Administrators)](/dorahacks/guides/manage-diy-hackathon/#managing-team-permissions-administrators)
 
-- [Registration Management](/dorahacks/guides/manage-diy-hackathon/#registration-management)
+- [**Registration Management**](/dorahacks/guides/manage-diy-hackathon/#registration-management)
   - [View/export participant list (Hackers)](/dorahacks/guides/manage-diy-hackathon/#viewexport-participant-list-hackers)
   - [BUIDL review (BUIDLs)](/dorahacks/guides/manage-diy-hackathon/#buidl-review-buidls)
   - [Send group messages to participants (Group messages)](/dorahacks/guides/manage-diy-hackathon/#send-group-messages-to-participants-group-messages)
 
-- [Judging & Results](/dorahacks/guides/manage-diy-hackathon/#prizes-and-judging)
+- [**Judging & Results**](/dorahacks/guides/manage-diy-hackathon/#prizes-and-judging)
   - [aMACI on-chain judging](/dorahacks/guides/manage-diy-hackathon/#amaci-on-chain-judging)
   - [Winner Assignment (Tracks & Bounties)](/dorahacks/guides/manage-diy-hackathon/#winner-assignment-tracks-and-bounties)
   - [Hackathon Marketing Summary (Summary)](/dorahacks/guides/manage-diy-hackathon/#hackathon-marketing-summary-buidl-ai-tool)
 
-- [Gather participant feedback / provide support](/dorahacks/guides/manage-diy-hackathon/#gather-participant-feedbackprovide-support)
+- [**Gather participant feedback / provide support**](/dorahacks/guides/manage-diy-hackathon/#gather-participant-feedbackprovide-support)
   - [Mailbox](/dorahacks/guides/manage-diy-hackathon/#mailbox)
   - [Ask Question](/dorahacks/guides/manage-diy-hackathon/#ask-question)
