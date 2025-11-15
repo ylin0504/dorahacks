@@ -7,7 +7,7 @@ baseurl: "/dorahacks"
 logo: "/assets/logo.png"
 logo_width: 160
 
-permalink: pretty   # ← 就是它！
+permalink: pretty
 
 plugins:
   - jekyll-seo-tag
@@ -15,9 +15,5 @@ plugins:
 
 just_the_docs:
   search_enabled: true
-
-just_the_docs:
-  aux_nav:
-    ...
   custom_css:
     - assets/css/custom.css
