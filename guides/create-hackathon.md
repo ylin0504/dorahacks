@@ -14,7 +14,7 @@ DoraHacks, a global hackathon organizer and leading Web3 developer platform, emp
     - *Requirement: Log in or create an account.*
     - *Your hackathon must belong to an organization. Create one first if needed.*
 
-![WX20241030-172231@2x.png](How%20to%20Create%20Your%20Own%20Hackathon/WX20241030-1722312x.png)
+<img src="https://cdn.dorahacks.io/static/files/19a8688ce6b809b8b468d15447c9c204.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 1. **In your Dashboard:**
     - Select your organization → Click **"New Hackathon"**.
@@ -22,23 +22,22 @@ DoraHacks, a global hackathon organizer and leading Web3 developer platform, emp
         
         **BUIDL AI subscribers can launch hackathons faster with the Kickstarter tool providing content recommendations, generating basic information, and  suggesting creative hackathon ideas.*
         
+<img src="https://cdn.dorahacks.io/static/files/19a868a154b3ccd3302f6074d5883ef0.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
-![WX20241030-172436@2x.png](How%20to%20Create%20Your%20Own%20Hackathon/WX20241030-1724362x.png)
-
-![image.png](How%20to%20Create%20Your%20Own%20Hackathon/image.png)
+<img src="https://cdn.dorahacks.io/static/files/19a868ab08d730b12f203f44d3ead793.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 ### **Step 2: Configure Basic Information**
 
 1. Complete required fields: **Title, Category & type**.
     
-    ![2-1.png](How%20to%20Create%20Your%20Own%20Hackathon/2-1.png)
-    
-    ![2-2.png](How%20to%20Create%20Your%20Own%20Hackathon/2-2.png)
-    
+    <img src="https://cdn.dorahacks.io/static/files/19a868b0b40d6f93935accf49169f007.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
+    <img src="https://cdn.dorahacks.io/static/files/19a868b3667fd0aab51989542da8c4c2.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
     **Custom Options for Student Hackathons - **Customize Registration Form**: Enable this option to let participants register through an external form (e.g., Google Form or Typeform). If no external form is provided, participants will register using their DoraHacks profile by default.*
     
-    ![2-3.png](How%20to%20Create%20Your%20Own%20Hackathon/2-3.png)
-    
+    <img src="https://cdn.dorahacks.io/static/files/19a868b65ac0feb417530b240af911ca.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
     **Make this hackathon private (optional): You can set a password to restrict access to your hackathon. Participants will need to enter the password either when submitting their BUIDL or viewing the hackathon details page.*
     
 2. Click the **Checklist** (top-right) to review the required information.
@@ -48,11 +47,10 @@ DoraHacks, a global hackathon organizer and leading Web3 developer platform, emp
         
         ***For detailed guidelines on each section, please refer to [Hackathon management guide](https://dorahacks.io/blog/diy-your-hackathon/).*
         
-    
-    ![2-4.png](How%20to%20Create%20Your%20Own%20Hackathon/5fd7aea8-9619-4bbc-a633-b4aed45d086d.png)
-    
-    ![image.png](How%20to%20Create%20Your%20Own%20Hackathon/image%201.png)
-    
+        <img src="https://cdn.dorahacks.io/static/files/19a868c80b92e6c95d250b64cfab66fc.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
+    <img src="https://cdn.dorahacks.io/static/files/19a868a6ee262edfaa4893142cdb73f1.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
 3. After completing the checklist, click **Submit for Review** to submit your hackathon.
     
     **You can temporarily refrain from submitting, and the hackathon page will be saved as a draft. When you're ready, please remember to submit the page so that DoraHacks can review and approve the Hackathon.*
@@ -69,8 +67,8 @@ DoraHacks, a global hackathon organizer and leading Web3 developer platform, emp
 - Customize track names and judging criteria.
 - Optional: Publish a **Tracks** tab on the hackathon page.
     
-    ![screenshot-20250718-162717.png](How%20to%20Create%20Your%20Own%20Hackathon/screenshot-20250718-162717.png)
-    
+    <img src="https://cdn.dorahacks.io/static/files/19a868cfc823cabb5b0bade4ae09de56.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
 
 **Bounties**
 
@@ -79,8 +77,8 @@ a. Go to **Bounty Settings** → **Settings & Sponsors**
 - **Set bounty selection** as *Required* or *Optional* for submissions
 - Add **sponsors** → Allocate bounties under their profiles.
     
-    ![screenshot-20250718-164836.png](How%20to%20Create%20Your%20Own%20Hackathon/screenshot-20250718-164836.png)
-    
+    <img src="https://cdn.dorahacks.io/static/files/19a868d3c1a45d1b79fe09b49c3a037c.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
 
 b. Go to **Bounties**
 
@@ -88,13 +86,13 @@ Configure bounty details and requirements:
 
 - Limit bounty applications per project
     
-    ![screenshot-20250718-164856.png](How%20to%20Create%20Your%20Own%20Hackathon/1e1fc62e-b82d-4185-9b00-40e05b5659be.png)
-    
+    <img src="https://cdn.dorahacks.io/static/files/19a868f06a21cd5194448da48eaa9435.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
 - **Create new bounties** under each sponsor’s profile
 - **Invite sponsors via email** to allow independent creation and editing of their bounty details
     
-    ![screenshot-20250718-215826.png](How%20to%20Create%20Your%20Own%20Hackathon/screenshot-20250718-215826.png)
-    
+    <img src="https://cdn.dorahacks.io/static/files/19a868f63ff1b272fde7e224bb4b983b.png" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
 
 ### **Step 4: Contact Us**
 
@@ -108,32 +106,26 @@ Once your event page is live, you can manage it through the [Organizer Dashboard
 
 This includes editing event details, managing project reviews, and handling evaluations. ([View the detailed Hackathon management guide >>](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md))
 
-![20250722-160930.gif](How%20to%20Create%20Your%20Own%20Hackathon/20250722-160930.gif)
+<img src="https://cdn.dorahacks.io/static/files/19a868fc66fb9c7c8890fe74ab9a9086.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
 **The Dashboard currently offers the following key features:**
 
-**Basic Settings**
+- [Basic Settings](/dorahacks/guides/manage-diy-hackathon/#basic-settings)
+  - [Edit Hackathon page content (Overview & Details & Custom Tabs)](/dorahacks/guides/manage-diy-hackathon/#edit-hackathon-page-content-overview--details--custom-tabs)
+  - [Customize Tracks](/dorahacks/guides/manage-diy-hackathon/#customize-tracks)
+  - [Customize Bounties](/dorahacks/guides/manage-diy-hackathon/#customize-bounties)
+  - [Managing Team Permissions (Administrators)](/dorahacks/guides/manage-diy-hackathon/#managing-team-permissions-administrators)
 
-- Edit Hackathon page content (Overview & Details & Custom Tabs)
-    - Set custom questions for participants/registrants
-    - Customize Tabs
-- Customize Tracks(Tracks)
-- Customize Bounties(Bounties)
-- Managing Team Permissions (Administrators)
+- [Registration Management](/dorahacks/guides/manage-diy-hackathon/#registration-management)
+  - [View/export participant list (Hackers)](/dorahacks/guides/manage-diy-hackathon/#viewexport-participant-list-hackers)
+  - [BUIDL review (BUIDLs)](/dorahacks/guides/manage-diy-hackathon/#buidl-review-buidls)
+  - [Send group messages to participants (Group messages)](/dorahacks/guides/manage-diy-hackathon/#send-group-messages-to-participants-group-messages)
 
-**Registration Management**
+- [Judging & Results](/dorahacks/guides/manage-diy-hackathon/#prizes-and-judging)
+  - [aMACI on-chain judging](/dorahacks/guides/manage-diy-hackathon/#amaci-on-chain-judging)
+  - [Winner Assignment (Tracks & Bounties)](/dorahacks/guides/manage-diy-hackathon/#winner-assignment-tracks-and-bounties)
+  - [Hackathon Marketing Summary (Summary)](/dorahacks/guides/manage-diy-hackathon/#hackathon-marketing-summary-buidl-ai-tool)
 
-- View/export participant list (Hackers)
-- BUIDL review (BUIDLs)
-- Send group messages to participants (Group messages)
-
-**Judging & Results**
-
-- aMACI on-chain judging
-- Winner Assignment (Tracks & Bounties)
-- Hackathon Marketing Summary (Summary)
-
-**Gather participant feedback/provide support**
-
-- Mailbox
-- Ask Question
+- [Gather participant feedback / provide support](/dorahacks/guides/manage-diy-hackathon/#gather-participant-feedbackprovide-support)
+  - [Mailbox](/dorahacks/guides/manage-diy-hackathon/#mailbox)
+  - [Ask Question](/dorahacks/guides/manage-diy-hackathon/#ask-question)
