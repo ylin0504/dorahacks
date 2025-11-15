@@ -104,7 +104,7 @@ Once everything is ready,  we’ll launch your event on the DoraHacks platform w
 
 Once your event page is live, you can manage it through the [Organizer Dashboard](https://dashboard.dorahacks.io/). 
 
-This includes editing event details, managing project reviews, and handling evaluations. ([View the detailed Hackathon management guide >>](How%20to%20Manage%20Your%20DIY%20hackathon%202aa35bb6dab081689ab2e6da4c00557d.md))
+This includes editing event details, managing project reviews, and handling evaluations. ([View the detailed Hackathon management guide >>](https://ylin0504.github.io/dorahacks/guides/manage-diy-hackathon/))
 
 <img src="https://cdn.dorahacks.io/static/files/19a868fc66fb9c7c8890fe74ab9a9086.gif" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
 
