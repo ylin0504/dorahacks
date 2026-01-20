@@ -51,6 +51,62 @@ Step by step operational guides for organizing, running, and scaling hackathons 
   </div>
 </div>
 
+
+<div
+  class="guide-card"
+  onclick="window.open('https://dorahacks.io/blog/guides/how-to-create-a-hackathon/', '_blank')"
+>
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-Create-Hackathon.jpg"
+    alt="Create Your Own Hackathon on DoraHacks"
+  />
+  <div class="guide-card-content">
+    <h3>
+      How to Create Your Own Hackathon on DoraHacks
+    </h3>
+    <p>
+      A step-by-step guide to creating, configuring, and launching your hackathon on DoraHacks using the organizer dashboard.
+    </p>
+  </div>
+</div>
+
+<div
+  class="guide-card"
+  onclick="window.open('https://dorahacks.io/blog/guides/diy-your-hackathon/', '_blank')"
+>
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-DIY-Hackathon.jpg"
+    alt="Managing Your DIY Hackathon"
+  />
+  <div class="guide-card-content">
+    <h3>
+      Managing Your DIY Hackathon
+    </h3>
+    <p>
+      A comprehensive guide for organizers running self-managed hackathons, from setup and promotion to submissions and judging.
+    </p>
+  </div>
+</div>
+
+<div
+  class="guide-card"
+  onclick="window.open('https://dorahacks.io/blog/guides/host-your-own-hackathons/', '_blank')"
+>
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-Prep-Checklist.jpg"
+    alt="Hackathon Prep Materials Checklist"
+  />
+  <div class="guide-card-content">
+    <h3>
+      Hackathon Prep Materials Checklist
+    </h3>
+    <p>
+      A practical checklist of materials and resources organizers should prepare before hosting a hackathon on DoraHacks.
+    </p>
+  </div>
+</div>
+
+
 <style>
 /* === Guide Card Base === */
 .guide-card {
