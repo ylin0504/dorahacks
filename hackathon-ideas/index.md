@@ -49,7 +49,7 @@ If Organizer Guide is about execution, Hackathon Ideas is about intent and struc
   />
   <div style="display:flex; flex-direction:column; justify-content:center;">
     <h3 style="margin:0 0 8px 0;">
-      The Blueprint of Hackathons: Why They Matter and How to Design One
+      The Blueprint of AI Trading Hackathons: Why They Matter and How to Organize One
     </h3>
     <p style="margin:0; color:#555; line-height:1.5;">
       A strategic blueprint explaining how AI trading hackathons can be designed as agent testing grounds and long-term ecosystem acquisition funnels.
