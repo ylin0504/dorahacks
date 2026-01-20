@@ -28,8 +28,7 @@ Step by step operational guides for organizing, running, and scaling hackathons 
       Step Zero: What to Do Before You Start Organizing a Hackathon
     </h3>
     <p>
-      A preparation checklist covering objectives, timelines,
-      team setup, budgeting, and risk assessment before launch.
+      A pre-organizing checklist that helps hackathon organizers define goals, assess resources, understand their audience, and decide if they are ready to launch.
     </p>
   </div>
 </div>
@@ -47,8 +46,7 @@ Step by step operational guides for organizing, running, and scaling hackathons 
       Hackathon in Progress: An Organizer's Operational Guide
     </h3>
     <p>
-      A practical guide to running live hackathons, including participant
-      communication, progress tracking, judging coordination, and issue handling.
+      An operational guide for managing hackathons during the live phase, covering promotion, communication, participant support, submissions, and team coordination.
     </p>
   </div>
 </div>
