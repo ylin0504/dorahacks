@@ -21,10 +21,6 @@ nav_order: 1
     <ul>
       <li>👩‍💻 <a href="{{ '/guides/hacker-guide/' | relative_url }}">Hacker Guide</a></li>
       <li>🏗 <a href="{{ '/guides/hackathon-organizer-guide/' | relative_url }}">Hackathon Organizer Guide</a></li>
-      <li>💡 <a href="{{ '/guides/hackathon-ideas/' | relative_url }}">Hackathon Ideas</a></li>
-      <li>🧩 <a href="{{ '/guides/create-hackathon/' | relative_url }}">How to Create Your Own Hackathon</a></li>
-      <li>🪄 <a href="{{ '/guides/manage-diy-hackathon/' | relative_url }}">How to Manage Your DIY Hackathon</a></li>
-      <li>🏛 <a href="{{ '/guides/create-qf-maci-round/' | relative_url }}">How to Create a QF / MACI / aMACI Round</a></li>
     </ul>
   </div>
 
@@ -54,6 +50,14 @@ nav_order: 1
     </ul>
   </div>
 
+  <!-- Hackathon Ideas Column -->
+  <div style="flex:1 1 240px; min-width:240px;">
+    <h2>Hackathon Ideas</h2>
+    <ul>
+      <li>💡 <a href="{{ '/hackathon-ideas/' | relative_url }}">The Blueprint of Hackathons: Why They Matter and How to Design One</a></li>
+    </ul>
+  </div>
+  
 </div>
 
 <br>
