@@ -19,7 +19,7 @@ Practical guides and real world experience for builders participating in hackath
     border-radius:14px;
     overflow:hidden;
     cursor:pointer;
-    max-width: 320px;
+    max-width: 360px;
   "
 >
   <!-- Image wrapper: 2:1 ratio -->
@@ -48,8 +48,5 @@ Practical guides and real world experience for builders participating in hackath
   <!-- Text -->
   <div style="padding:16px;">
     <strong>The Beginner Hacker's Guide: How to Make the Most of Your First Hackathons</strong>
-    <p style="margin:8px 0 0 0; color:#555;">
-      A practical introduction for first time hackers, covering mindset, team formation, project selection, and how to stand out in hackathons.
-    </p>
   </div>
 </div>
