@@ -60,4 +60,39 @@
     aspect-ratio: 2 / 1;
   }
 }
+/* Guide sub items styling */
+.guide-sublist {
+  list-style: none;            /* 移除子级 bullet */
+  padding-left: 1.25rem;       /* 保留层级缩进 */
+  margin: 0.4rem 0 0.8rem 0;
+}
+
+.guide-sublist li {
+  position: relative;
+  margin-top: 0.35rem;
+  padding-left: 0.9rem;        /* 给 › 留空间 */
+}
+
+/* › 前缀 */
+.guide-sublist li::before {
+  content: "›";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #9ca3af;              /* 浅灰色 */
+  font-size: 0.95rem;
+}
+
+/* 子项链接样式 */
+.guide-sublist a {
+  font-size: 0.95rem;          /* 比主标题小 */
+  color: #6b7280;              /* 浅色文本 */
+  text-decoration: none;
+  line-height: 1.5;
+}
+
+.guide-sublist a:hover {
+  color: #374151;
+  text-decoration: underline;
+}
 
