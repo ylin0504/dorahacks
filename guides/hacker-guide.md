@@ -1,7 +1,7 @@
 ---
 title: Hacker Guide
 parent: About
-nav_order: 10
+nav_order: 2
 ---
 
 # Hacker Guide
