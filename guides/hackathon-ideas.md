@@ -1,6 +1,6 @@
 ---
 title: Hackathon Ideas
-parent: Guide
+parent: Guides
 nav_order: 3
 ---
 
