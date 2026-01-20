@@ -52,8 +52,7 @@ If Organizer Guide is about execution, Hackathon Ideas is about intent and struc
       The Blueprint of Hackathons: Why They Matter and How to Design One
     </h3>
     <p style="margin:0; color:#555; line-height:1.5;">
-      A foundational framework for understanding hackathons as ecosystem tools,
-      covering incentive design, participation dynamics, and long-term impact.
+      A strategic blueprint explaining how AI trading hackathons can be designed as agent testing grounds and long-term ecosystem acquisition funnels.
     </p>
   </div>
 </div>
