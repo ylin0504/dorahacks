@@ -1,7 +1,7 @@
 ---
 title: Create a QF or MACI Round
 parent: Guides
-nav_order: 5
+nav_order: 6
 ---
 
 # **How to Create a Quadratic Funding (QF), MACI/aMACI round?**
