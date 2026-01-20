@@ -61,3 +61,7 @@
     width: 100%;
   }
 }
+/* DEBUG: 如果这条不生效，说明 custom.css 没加载 */
+.main-content {
+  border: 10px solid red !important;
+}
