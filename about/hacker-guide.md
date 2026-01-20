@@ -4,49 +4,23 @@ parent: About
 nav_order: 11
 ---
 
-
-
 # Hacker Guide
 
-Practical guides and real world experience for builders participating in hackathons on DoraHacks.
+Practical guides and real world experience for hackers participating in hackathons.
 
 ## Recommended Reading
 
-<div
-  onclick="window.open('https://dorahacks.io/blog/news/hacker-success-guide/', '_blank')"
-  style="
-    border:1px solid #e5e7eb;
-    border-radius:14px;
-    overflow:hidden;
-    cursor:pointer;
-    max-width: 360px;
-  "
->
-  <!-- Image wrapper: 2:1 ratio -->
-  <div
-    style="
-      position: relative;
-      width: 100%;
-      padding-top: 50%;
-      overflow: hidden;
-    "
-  >
-    <img
-      src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-4.jpg"
-      alt="Beginner Hacker Guide"
-      style="
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-      "
-    />
+<div class="guide-card"
+     onclick="window.open('https://dorahacks.io/blog/news/hacker-success-guide/', '_blank')">
+
+  <div class="guide-card-image">
+    <img src="/assets/Banner-Blog-4.jpg" alt="Beginner Hacker Guide" />
   </div>
 
-  <!-- Text -->
-  <div style="padding:16px;">
-    <strong>The Beginner Hacker's Guide: How to Make the Most of Your First Hackathons</strong>
+  <div class="guide-card-content">
+    <h3>The Beginner Hacker's Guide: How to Make the Most of Your First Hackathons</h3>
+    <p>
+      Learn how to approach hackathons strategically, choose the right events, and stand out.
+    </p>
   </div>
 </div>
