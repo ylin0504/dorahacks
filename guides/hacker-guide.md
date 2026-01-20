@@ -8,7 +8,11 @@ nav_order: 1
 
 Practical guides and real world experience for hackers participating in hackathons.
 
+---
+
 ## Recommended Reading
+
+<br>
 
 <div
   class="guide-card"
