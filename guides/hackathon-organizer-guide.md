@@ -10,24 +10,6 @@ Step by step operational guides for organizing, running, and scaling hackathons 
 
 ## Recommended Reading
 
-<div
-  class="guide-card"
-  onclick="window.open('https://dorahacks.io/blog/news/ai-trading-hackathon/', '_blank')"
->
-  <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-2.jpg"
-    alt="AI Trading Hackathons"
-  />
-  <div class="guide-card-content">
-    <h3>
-      The Blueprint of AI Trading Hackathons: Why They Matter and How to Organize One
-    </h3>
-    <p>
-      An overview of AI trading hackathons, including ecosystem value,
-      competition structure, and organizer level considerations.
-    </p>
-  </div>
-</div>
 
 <div
   class="guide-card"
