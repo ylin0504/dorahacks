@@ -15,14 +15,37 @@ nav_order: 1
 
 <div style="display:flex; flex-wrap:wrap; gap:2.5rem; margin-top:1.5rem;">
 
-  <!-- Guide Column -->
-  <div style="flex:1 1 240px; min-width:240px;">
-    <h2>Guide</h2>
-    <ul>
-      <li>👩‍💻 <a href="{{ '/guides/hacker-guide/' | relative_url }}">Hacker Guide</a></li>
-      <li>🏗 <a href="{{ '/guides/hackathon-organizer-guide/' | relative_url }}">Hackathon Organizer Guide</a></li>
-    </ul>
-  </div>
+<!-- Guide Column -->
+<div style="flex:1 1 240px; min-width:240px;">
+  <h2>Guide</h2>
+  <ul>
+    <li>
+      👩‍💻 <a href="{{ '/guides/hacker-guide/' | relative_url }}">Hacker Guide</a>
+      <ul class="guide-sublist">
+        <li>
+          <a href="{{ '/blog/the-beginner-hackers-guide/' | relative_url }}">
+            The Beginner Hacker's Guide: How to Make the Most of Your First Hackathons
+          </a>
+        </li>
+      </ul>
+    </li>
+
+    <li>
+      🏗 <a href="{{ '/guides/hackathon-organizer-guide/' | relative_url }}">
+        Hackathon Organizer Guide
+      </a>
+      <ul class="guide-sublist">
+        <li>
+          <a href="{{ '/blog/hackathon-in-progress-organizers-operational-guide/' | relative_url }}">
+            Hackathon in Progress: An Organizer's Operational Guide
+          </a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+
 
   <!-- Features Column -->
   <div style="flex:1 1 240px; min-width:240px;">
