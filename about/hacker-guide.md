@@ -1,68 +1,30 @@
 ---
-title: Hackathon Organizer Guide
+title: Hacker Guide
 parent: About
-nav_order: 11
+nav_order: 10
 ---
 
-# Hackathon Organizer Guide
+# Hacker Guide
 
-Step by step operational guides for organizing, running, and scaling hackathons on DoraHacks.
+Practical guides and real world experience for hackers participating in hackathons.
 
 ## Recommended Reading
 
 <div
   class="guide-card"
-  onclick="window.open('https://dorahacks.io/blog/news/ai-trading-hackathon/', '_blank')"
+  onclick="window.open('https://dorahacks.io/blog/news/hacker-success-guide/', '_blank')"
 >
   <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-2.jpg"
-    alt="AI Trading Hackathons"
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-4.jpg"
+    alt="Beginner Hacker Guide"
   />
   <div class="guide-card-content">
     <h3>
-      The Blueprint of AI Trading Hackathons: Why They Matter and How to Organize One
+      The Beginner Hacker's Guide: How to Make the Most of Your First Hackathons
     </h3>
     <p>
-      An overview of AI trading hackathons, including ecosystem value,
-      competition structure, and organizer level considerations.
-    </p>
-  </div>
-</div>
-
-<div
-  class="guide-card"
-  onclick="window.open('https://dorahacks.io/blog/news/hackathon-prep/', '_blank')"
->
-  <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-3.jpg"
-    alt="Hackathon Preparation"
-  />
-  <div class="guide-card-content">
-    <h3>
-      Step Zero: What to Do Before You Start Organizing a Hackathon
-    </h3>
-    <p>
-      A preparation checklist covering objectives, timelines,
-      team setup, budgeting, and risk assessment before launch.
-    </p>
-  </div>
-</div>
-
-<div
-  class="guide-card"
-  onclick="window.open('https://dorahacks.io/blog/news/hackathon-operation/', '_blank')"
->
-  <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-6.jpg"
-    alt="Hackathon Operations"
-  />
-  <div class="guide-card-content">
-    <h3>
-      Hackathon in Progress: An Organizer's Operational Guide
-    </h3>
-    <p>
-      A practical guide to running live hackathons, including participant
-      communication, progress tracking, judging coordination, and issue handling.
+      A practical introduction for first time hackers, covering mindset,
+      preparation, team formation, and strategies to stand out during judging.
     </p>
   </div>
 </div>
@@ -86,6 +48,7 @@ Step by step operational guides for organizing, running, and scaling hackathons 
   transform: translateY(-2px);
 }
 
+/* Image */
 .guide-card img {
   width: 320px;
   height: auto;
@@ -95,6 +58,7 @@ Step by step operational guides for organizing, running, and scaling hackathons 
   display: block;
 }
 
+/* Content */
 .guide-card-content h3 {
   margin: 0 0 6px 0;
 }
@@ -106,7 +70,7 @@ Step by step operational guides for organizing, running, and scaling hackathons 
   font-size: 15px;
 }
 
-/* === Mobile (THIS WILL WORK) === */
+/* === Mobile === */
 @media (max-width: 768px) {
   .guide-card {
     flex-direction: column !important;
