@@ -27,8 +27,7 @@ Practical guides and real world experience for hackers participating in hackatho
       The Beginner Hacker's Guide: How to Make the Most of Your First Hackathons
     </h3>
     <p>
-      A practical introduction for first time hackers, covering mindset,
-      preparation, team formation, and strategies to stand out during judging.
+      A practical guide for first-time hackers on how to choose the right hackathons, avoid common mistakes, learn from others, and turn each event into long-term growth rather than just a shot at prizes.
     </p>
   </div>
 </div>
