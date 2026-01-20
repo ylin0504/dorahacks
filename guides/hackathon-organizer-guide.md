@@ -8,7 +8,11 @@ nav_order: 2
 
 Step by step operational guides for organizing, running, and scaling hackathons on DoraHacks.
 
+---
+
 ## Recommended Reading
+
+<br>
 
 
 <div
