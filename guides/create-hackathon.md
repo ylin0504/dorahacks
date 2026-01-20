@@ -1,6 +1,6 @@
 ---
 title: Create a Hackathon
-parent: Guides
+parent: /
 nav_order: 4
 ---
 
