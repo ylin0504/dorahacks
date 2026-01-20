@@ -1,4 +1,8 @@
 ---
+title: Hacker Guide
+parent: About
+nav_order: 10
+---
 
 ## Recommended Reading
 
