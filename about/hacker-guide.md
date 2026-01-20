@@ -23,7 +23,7 @@ Practical guides and real world experience for hackers participating in hackatho
   "
 >
   <img
-    src="/dorahacks/assets/banner-blog-4.jpg"
+  src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-4.jpg"
     alt="Beginner Hacker Guide"
     style="width:120px; height:auto; border-radius:8px;"
   />
