@@ -1,6 +1,6 @@
 ---
 title: Hacker Guide
-parent: About
+parent: Guides
 nav_order: 1
 ---
 
