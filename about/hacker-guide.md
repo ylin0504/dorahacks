@@ -12,7 +12,7 @@ Practical guides and real world experience for hackers participating in hackatho
 
 <a href="https://dorahacks.io/blog/news/hacker-success-guide/" target="_blank" style="text-decoration:none;">
   <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; display:flex; gap:16px; align-items:center;">
-    <img src="assets/Banner-Blog-4" alt="Beginner Hacker Guide" style="width:120px; height:auto; border-radius:8px;" />
+    <img src="assets/Banner-Blog-4.jpg" alt="Beginner Hacker Guide" style="width:120px; height:auto; border-radius:8px;" />
     <div>
       <h3 style="margin:0 0 8px 0; color:#111;">
         The Beginner Hacker's Guide: How to Make the Most of Your First Hackathons
