@@ -21,6 +21,7 @@ nav_order: 1
     <ul>
       <li>👩‍💻 <a href="{{ '/guides/hacker-guide/' | relative_url }}">Hacker Guide</a></li>
       <li>🏗 <a href="{{ '/guides/hackathon-organizer-guide/' | relative_url }}">Hackathon Organizer Guide</a></li>
+      <li>💡 <a href="{{ '/guides/hackathon-ideas/' | relative_url }}">Hackathon Ideas</a></li>
       <li>🧩 <a href="{{ '/guides/create-hackathon/' | relative_url }}">How to Create Your Own Hackathon</a></li>
       <li>🪄 <a href="{{ '/guides/manage-diy-hackathon/' | relative_url }}">How to Manage Your DIY Hackathon</a></li>
       <li>🏛 <a href="{{ '/guides/create-qf-maci-round/' | relative_url }}">How to Create a QF / MACI / aMACI Round</a></li>
