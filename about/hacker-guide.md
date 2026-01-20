@@ -19,7 +19,7 @@ Practical guides and real world experience for builders participating in hackath
     border-radius:14px;
     overflow:hidden;
     cursor:pointer;
-    max-width: 640px;
+    max-width: 320px;
   "
 >
   <!-- Image wrapper: 2:1 ratio -->
