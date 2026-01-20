@@ -57,7 +57,7 @@ Step by step operational guides for organizing, running, and scaling hackathons 
   onclick="window.open('https://dorahacks.io/blog/guides/how-to-create-a-hackathon/', '_blank')"
 >
   <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-Create-Hackathon.jpg"
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/create-hackathon-on-dorahacks.jpg"
     alt="Create Your Own Hackathon on DoraHacks"
   />
   <div class="guide-card-content">
@@ -75,7 +75,7 @@ Step by step operational guides for organizing, running, and scaling hackathons 
   onclick="window.open('https://dorahacks.io/blog/guides/diy-your-hackathon/', '_blank')"
 >
   <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-DIY-Hackathon.jpg"
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/manage-your-diy-hackathon.jpg"
     alt="Managing Your DIY Hackathon"
   />
   <div class="guide-card-content">
@@ -93,7 +93,7 @@ Step by step operational guides for organizing, running, and scaling hackathons 
   onclick="window.open('https://dorahacks.io/blog/guides/host-your-own-hackathons/', '_blank')"
 >
   <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-Prep-Checklist.jpg"
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/organizer-prep-checklist.jpg"
     alt="Hackathon Prep Materials Checklist"
   />
   <div class="guide-card-content">
