@@ -1,6 +1,6 @@
 ---
 title: Create a QF or MACI Round
-parent: Guides
+parent: /
 nav_order: 6
 ---
 
