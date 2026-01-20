@@ -1,6 +1,6 @@
 ---
 title: Hackathon Organizer Guide
-parent: About
+parent: Guides
 nav_order: 2
 ---
 
