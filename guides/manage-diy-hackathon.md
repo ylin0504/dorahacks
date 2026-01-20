@@ -1,7 +1,7 @@
 ---
 title: Manage DIY Hackathon
 parent: Guides
-nav_order: 4
+nav_order: 5
 ---
 
 # **How to Manage Your DIY hackathon**
