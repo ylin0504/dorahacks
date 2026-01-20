@@ -1,7 +1,7 @@
 ---
 title: Create a Hackathon
 parent: Guides
-nav_order: 1
+nav_order: 3
 ---
 
 # **How to Create Your Own Hackathon**
