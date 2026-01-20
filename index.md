@@ -13,23 +13,17 @@ nav_order: 1
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; margin-top:1.5rem;">
+<div style="display:flex; flex-wrap:wrap; gap:2.5rem; margin-top:1.5rem;">
 
-  <!-- About Column -->
-  <div style="flex:1 1 260px; min-width:260px;">
-    <h2>About DoraHacks</h2>
+  <!-- Guide Column -->
+  <div style="flex:1 1 240px; min-width:240px;">
+    <h2>Guide</h2>
     <ul>
-      <li>🧭 <a href="{{ '/about/mission-and-vision/' | relative_url }}">Mission and Vision</a></li>
-      <li>🧑‍💻 <a href="{{ '/about/who-uses-dorahacks/' | relative_url }}">Who uses Dorahacks.io?</a></li>
-      <li>❓ <a href="{{ '/about/why-dorahacks/' | relative_url }}">Why DoraHacks?</a></li>
-      <li>📚 <a href="{{ '/about/glossary/' | relative_url }}">Glossary</a></li>
-
-      <li style="margin-top:0.75rem;"><strong>Guides</strong></li>
       <li>👩‍💻 <a href="{{ '/guides/hacker-guide/' | relative_url }}">Hacker Guide</a></li>
       <li>🏗 <a href="{{ '/guides/hackathon-organizer-guide/' | relative_url }}">Hackathon Organizer Guide</a></li>
-
-      <li style="margin-top:0.75rem;">📨 <a href="{{ '/about/contact-us/' | relative_url }}">Contact Us</a></li>
-      <li>🐞 <a href="{{ '/about/bug-reporting/' | relative_url }}">Bug Reporting</a></li>
+      <li>🧩 <a href="{{ '/guides/create-hackathon/' | relative_url }}">How to Create Your Own Hackathon</a></li>
+      <li>🪄 <a href="{{ '/guides/manage-diy-hackathon/' | relative_url }}">How to Manage Your DIY Hackathon</a></li>
+      <li>🏛 <a href="{{ '/guides/create-qf-maci-round/' | relative_url }}">How to Create a QF / MACI / aMACI Round</a></li>
     </ul>
   </div>
 
@@ -46,13 +40,16 @@ nav_order: 1
     </ul>
   </div>
 
-  <!-- Guides Column -->
+  <!-- About Column -->
   <div style="flex:1 1 240px; min-width:240px;">
-    <h2>Quick Start</h2>
+    <h2>About DoraHacks</h2>
     <ul>
-      <li>🧩 <a href="{{ '/guides/create-hackathon/' | relative_url }}">How to Create Your Own Hackathon</a></li>
-      <li>🪄 <a href="{{ '/guides/manage-diy-hackathon/' | relative_url }}">How to Manage Your DIY Hackathon</a></li>
-      <li>🏛 <a href="{{ '/guides/create-qf-maci-round/' | relative_url }}">How to Create a QF / MACI / aMACI Round</a></li>
+      <li>🧭 <a href="{{ '/about/mission-and-vision/' | relative_url }}">Mission and Vision</a></li>
+      <li>🧑‍💻 <a href="{{ '/about/who-uses-dorahacks/' | relative_url }}">Who uses Dorahacks.io?</a></li>
+      <li>❓ <a href="{{ '/about/why-dorahacks/' | relative_url }}">Why DoraHacks?</a></li>
+      <li>📚 <a href="{{ '/about/glossary/' | relative_url }}">Glossary</a></li>
+      <li>📨 <a href="{{ '/about/contact-us/' | relative_url }}">Contact Us</a></li>
+      <li>🐞 <a href="{{ '/about/bug-reporting/' | relative_url }}">Bug Reporting</a></li>
     </ul>
   </div>
 
