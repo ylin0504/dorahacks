@@ -1,10 +1,13 @@
+/* Guide card - horizontal layout */
 .guide-card {
+  display: flex;
+  gap: 20px;
   border: 1px solid #e5e7eb;
   border-radius: 14px;
   overflow: hidden;
+  background: #ffffff;
   cursor: pointer;
   transition: box-shadow 0.25s ease, transform 0.25s ease;
-  background: #fff;
 }
 
 .guide-card:hover {
@@ -12,25 +15,36 @@
   transform: translateY(-2px);
 }
 
-.guide-card img {
+/* Left image */
+.guide-card-image {
+  width: 320px;
+  flex-shrink: 0;
+}
+
+.guide-card-image img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   display: block;
 }
 
+/* Right content */
 .guide-card-content {
-  padding: 16px 18px;
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .guide-card-content h3 {
-  margin: 0 0 8px 0;
-  font-size: 18px;
+  margin: 0 0 10px 0;
+  font-size: 20px;
   line-height: 1.4;
 }
 
 .guide-card-content p {
   margin: 0;
-  color: #555;
   font-size: 14px;
   line-height: 1.6;
+  color: #555;
 }
