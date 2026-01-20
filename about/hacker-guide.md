@@ -10,6 +10,8 @@ Practical guides and real world experience for hackers participating in hackatho
 
 ## Recommended Reading
 
+<br>
+
 <div
   onclick="window.open('https://dorahacks.io/blog/news/hacker-success-guide/', '_blank')"
   style="
