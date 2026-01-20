@@ -1,99 +1,60 @@
 ---
 title: Hackathon Organizer Guide
 parent: About
-nav_order: 11
+nav_order: 10
 ---
 
 # Hackathon Organizer Guide
 
-Actionable guides for teams and organizations planning, launching, and operating hackathons on DoraHacks.
-
-This section consolidates best practices from real events and platform experience, covering preparation, execution, and post hackathon operations.
-
----
+Practical, battle tested guides for teams organizing hackathons on DoraHacks.
 
 ## Recommended Reading
 
-<div
-  onclick="window.open('https://dorahacks.io/blog/news/ai-trading-hackathon/', '_blank')"
-  style="
-    border:1px solid #e5e7eb;
-    border-radius:12px;
-    padding:16px;
-    display:flex;
-    gap:16px;
-    align-items:center;
-    cursor:pointer;
-    margin-bottom:16px;
-  "
->
-  <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-2.jpg"
-    style="width:120px; border-radius:8px;"
-  />
-  <div>
-    <strong>The Blueprint of AI Trading Hackathons: Why They Matter and How to Organize One</strong>
-    <p style="margin:6px 0 0 0; color:#555;">
-      A strategic breakdown of AI trading hackathons, including goals, structure, judging design, and ecosystem impact.
+<div class="guide-card"
+     onclick="window.open('https://dorahacks.io/blog/news/ai-trading-hackathon/', '_blank')">
+
+  <div class="guide-card-image">
+    <img src="/assets/Banner-Blog-2.jpg" alt="AI Trading Hackathon Guide" />
+  </div>
+
+  <div class="guide-card-content">
+    <h3>The Blueprint of AI Trading Hackathons</h3>
+    <p>
+      Why AI trading hackathons matter and how to design, structure, and run them successfully.
     </p>
   </div>
 </div>
 
-<div
-  onclick="window.open('https://dorahacks.io/blog/news/hackathon-prep/', '_blank')"
-  style="
-    border:1px solid #e5e7eb;
-    border-radius:12px;
-    padding:16px;
-    display:flex;
-    gap:16px;
-    align-items:center;
-    cursor:pointer;
-    margin-bottom:16px;
-  "
->
-  <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-3.jpg"
-    style="width:120px; border-radius:8px;"
-  />
-  <div>
-    <strong>Step Zero: What to Do Before You Start Organizing a Hackathon</strong>
-    <p style="margin:6px 0 0 0; color:#555;">
-      Pre launch checklist covering scope definition, team setup, timelines, and common early stage mistakes.
+<br />
+
+<div class="guide-card"
+     onclick="window.open('https://dorahacks.io/blog/news/hackathon-prep/', '_blank')">
+
+  <div class="guide-card-image">
+    <img src="/assets/Banner-Blog-3.jpg" alt="Hackathon Preparation Guide" />
+  </div>
+
+  <div class="guide-card-content">
+    <h3>Step Zero: What to Do Before You Start Organizing a Hackathon</h3>
+    <p>
+      A complete pre launch checklist covering goals, timelines, judging, and infrastructure.
     </p>
   </div>
 </div>
 
-<div
-  onclick="window.open('https://dorahacks.io/blog/news/hackathon-operation/', '_blank')"
-  style="
-    border:1px solid #e5e7eb;
-    border-radius:12px;
-    padding:16px;
-    display:flex;
-    gap:16px;
-    align-items:center;
-    cursor:pointer;
-  "
->
-  <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/Banner-Blog-6.jpg"
-    style="width:120px; border-radius:8px;"
-  />
-  <div>
-    <strong>Hackathon in Progress: An Organizer's Operational Guide</strong>
-    <p style="margin:6px 0 0 0; color:#555;">
-      A practical operations manual for live hackathons, including communication, judging coordination, and risk handling.
+<br />
+
+<div class="guide-card"
+     onclick="window.open('https://dorahacks.io/blog/news/hackathon-operation/', '_blank')">
+
+  <div class="guide-card-image">
+    <img src="/assets/Banner-Blog-6.jpg" alt="Hackathon Operations Guide" />
+  </div>
+
+  <div class="guide-card-content">
+    <h3>Hackathon in Progress: An Organizer's Operational Guide</h3>
+    <p>
+      How to manage submissions, communication, judges, and momentum during the event.
     </p>
   </div>
 </div>
-
----
-
-## How to Use This Guide
-
-- Use **Step Zero** to validate readiness before committing resources
-- Refer to **Blueprint** when designing hackathon structure and incentives
-- Follow **Hackathon in Progress** during live operations and evaluation
-
-For platform specific workflows, dashboards, and judging tools, continue to the detailed organizer documentation within this Wiki.
