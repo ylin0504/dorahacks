@@ -1,7 +1,7 @@
 ---
 title: Hackathon Ideas
 parent: Guide
-nav_order: 12
+nav_order: 3
 ---
 
 # Hackathon Ideas
