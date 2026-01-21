@@ -46,15 +46,16 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
 
 <!-- 1. External Judges -->
 <div
+  class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/news/hackathon-judge-2/', '_blank')"
-  style="display:flex; gap:20px; align-items:stretch; border:1px solid #e5e7eb; border-radius:12px; padding:16px; cursor:pointer; margin-bottom:20px; transition: box-shadow 0.2s ease, transform 0.2s ease;"
-  onmouseover="this.style.boxShadow='0 8px 24px rgba(0,0,0,0.08)'; this.style.transform='translateY(-2px)'"
-  onmouseout="this.style.boxShadow='none'; this.style.transform='none'"
 >
-  <img src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/external-judges.jpg" alt="External Judges" style="width:320px; border-radius:8px; flex-shrink:0;" />
-  <div style="display:flex; flex-direction:column; justify-content:center;">
-    <h3 style="margin:0 0 8px 0;">New Feature: Hackathon Judging Made Easier with External Judges</h3>
-    <p style="margin:0; color:#555; line-height:1.5;">
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/external-judges.jpg"
+    alt="External Judges"
+  />
+  <div class="guide-card-content">
+    <h3>New Feature: Hackathon Judging Made Easier with External Judges</h3>
+    <p>
       Invite external judges, define structured scoring rules, and combine human expertise with AI reviews for clearer and more efficient winner selection.
     </p>
   </div>
@@ -62,15 +63,16 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
 
 <!-- 2. FAH -->
 <div
+  class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/news/fah-dorahacks-product-update/', '_blank')"
-  style="display:flex; gap:20px; align-items:stretch; border:1px solid #e5e7eb; border-radius:12px; padding:16px; cursor:pointer; margin-bottom:20px; transition: box-shadow 0.2s ease, transform 0.2s ease;"
-  onmouseover="this.style.boxShadow='0 8px 24px rgba(0,0,0,0.08)'; this.style.transform='translateY(-2px)'"
-  onmouseout="this.style.boxShadow='none'; this.style.transform='none'"
 >
-  <img src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/fah.jpg" alt="FAH Mode" style="width:320px; border-radius:8px; flex-shrink:0;" />
-  <div style="display:flex; flex-direction:column; justify-content:center;">
-    <h3 style="margin:0 0 8px 0;">Supervised Fully-Autonomous Hackathon (FAH)</h3>
-    <p style="margin:0; color:#555; line-height:1.5;">
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/fah.jpg"
+    alt="FAH Mode"
+  />
+  <div class="guide-card-content">
+    <h3>Supervised Fully-Autonomous Hackathon (FAH)</h3>
+    <p>
       FAH centralizes Hackathon AI into one console, automating reviews, judging, messaging, and analytics while keeping organizers fully in control.
     </p>
   </div>
@@ -78,15 +80,16 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
 
 <!-- 3. Prize Distribution -->
 <div
+  class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/news/prize-distribution/', '_blank')"
-  style="display:flex; gap:20px; align-items:stretch; border:1px solid #e5e7eb; border-radius:12px; padding:16px; cursor:pointer; margin-bottom:20px; transition: box-shadow 0.2s ease, transform 0.2s ease;"
-  onmouseover="this.style.boxShadow='0 8px 24px rgba(0,0,0,0.08)'; this.style.transform='translateY(-2px)'"
-  onmouseout="this.style.boxShadow='none'; this.style.transform='none'"
 >
-  <img src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/prize-distribution.jpg" alt="Prize Distribution" style="width:320px; border-radius:8px; flex-shrink:0;" />
-  <div style="display:flex; flex-direction:column; justify-content:center;">
-    <h3 style="margin:0 0 8px 0;">New Feature: Prize Distribution with Merit Systems</h3>
-    <p style="margin:0; color:#555; line-height:1.5;">
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/prize-distribution.jpg"
+    alt="Prize Distribution"
+  />
+  <div class="guide-card-content">
+    <h3>New Feature: Prize Distribution with Merit Systems</h3>
+    <p>
       Manage prize funds and distribute rewards directly from the Organizer Dashboard, with payouts and compliance handled securely by Merit Systems.
     </p>
   </div>
@@ -94,15 +97,16 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
 
 <!-- 4. BUIDL AI 4.0 -->
 <div
+  class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/news/buidl-ai-4-0/', '_blank')"
-  style="display:flex; gap:20px; align-items:stretch; border:1px solid #e5e7eb; border-radius:12px; padding:16px; cursor:pointer; margin-bottom:20px; transition: box-shadow 0.2s ease, transform 0.2s ease;"
-  onmouseover="this.style.boxShadow='0 8px 24px rgba(0,0,0,0.08)'; this.style.transform='translateY(-2px)'"
-  onmouseout="this.style.boxShadow='none'; this.style.transform='none'"
 >
-  <img src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/buidl-ai-4-0.jpg" alt="BUIDL AI 4.0" style="width:320px; border-radius:8px; flex-shrink:0;" />
-  <div style="display:flex; flex-direction:column; justify-content:center;">
-    <h3 style="margin:0 0 8px 0;">DoraHacks Launches BUIDL AI 4.0: The DevRel Automation</h3>
-    <p style="margin:0; color:#555; line-height:1.5;">
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/buidl-ai-4-0.jpg"
+    alt="BUIDL AI 4.0"
+  />
+  <div class="guide-card-content">
+    <h3>DoraHacks Launches BUIDL AI 4.0: The DevRel Automation</h3>
+    <p>
       BUIDL AI 4.0 transforms hackathons into long-term DevRel engines by automating mentorship, progress tracking, and post-hackathon growth.
     </p>
   </div>
@@ -110,15 +114,16 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
 
 <!-- 5. Organizer Dashboard Update -->
 <div
+  class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/news/organizer-dashboard-update/', '_blank')"
-  style="display:flex; gap:20px; align-items:stretch; border:1px solid #e5e7eb; border-radius:12px; padding:16px; cursor:pointer; margin-bottom:20px; transition: box-shadow 0.2s ease, transform 0.2s ease;"
-  onmouseover="this.style.boxShadow='0 8px 24px rgba(0,0,0,0.08)'; this.style.transform='translateY(-2px)'"
-  onmouseout="this.style.boxShadow='none'; this.style.transform='none'"
 >
-  <img src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/organizer-dashboard.jpg" alt="Organizer Dashboard Update" style="width:320px; border-radius:8px; flex-shrink:0;" />
-  <div style="display:flex; flex-direction:column; justify-content:center;">
-    <h3 style="margin:0 0 8px 0;">Organizer Dashboard Update: More Control & Smarter Reviews</h3>
-    <p style="margin:0; color:#555; line-height:1.5;">
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/organizer-dashboard.jpg"
+    alt="Organizer Dashboard Update"
+  />
+  <div class="guide-card-content">
+    <h3>Organizer Dashboard Update: More Control & Smarter Reviews</h3>
+    <p>
       New dashboard upgrades give organizers tighter control over submissions, clearer communication with participants, and smarter AI-assisted BUIDL reviews.
     </p>
   </div>
@@ -126,20 +131,20 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
 
 <!-- 6. From Builder to Organizer -->
 <div
+  class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/news/buidl-ai-3-0/', '_blank')"
-  style="display:flex; gap:20px; align-items:stretch; border:1px solid #e5e7eb; border-radius:12px; padding:16px; cursor:pointer; margin-bottom:20px; transition: box-shadow 0.2s ease, transform 0.2s ease;"
-  onmouseover="this.style.boxShadow='0 8px 24px rgba(0,0,0,0.08)'; this.style.transform='translateY(-2px)'"
-  onmouseout="this.style.boxShadow='none'; this.style.transform='none'"
 >
-  <img src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/buidl-ai-3-0.jpg" alt="BUIDL AI 3.0" style="width:320px; border-radius:8px; flex-shrink:0;" />
-  <div style="display:flex; flex-direction:column; justify-content:center;">
-    <h3 style="margin:0 0 8px 0;">From Builder to Organizer: The Global Hackathon Movement</h3>
-    <p style="margin:0; color:#555; line-height:1.5;">
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/buidl-ai-3-0.jpg"
+    alt="BUIDL AI 3.0"
+  />
+  <div class="guide-card-content">
+    <h3>From Builder to Organizer: The Global Hackathon Movement</h3>
+    <p>
       BUIDL AI 3.0 lowers the operational barrier for builders to become organizers through AI-assisted setup, judging, and community support.
     </p>
   </div>
 </div>
-
 
 
 <style>
