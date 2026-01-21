@@ -15,53 +15,47 @@ nav_order: 1
 
 <div style="display:flex; flex-wrap:wrap; gap:2.5rem; margin-top:1.5rem;">
 
-<!-- Guide Column -->
+<!-- Hacker Guide Column -->
 <div style="flex:1 1 240px; min-width:240px;">
-  <h2>Guide</h2>
+  <h2>Hacker Guide</h2>
   <ul>
     <li>
-  👩‍💻 <a href="{{ '/guides/hacker-guide/' | relative_url }}">Hacker Guide</a>
-  <ul class="guide-sublist">
-    <li>
       <a href="https://dorahacks.io/blog/news/hacker-success-guide/" target="_blank">
-        The Beginner Hacker's Guide
+        🚀 The Beginner Hacker's Guide
       </a>
     </li>
   </ul>
-</li>
+</div>
 
-
-<li>
-  🏗 <a href="{{ '/guides/organizer-guide/' | relative_url }}">Hackathon Organizer Guide</a>
-  <ul class="guide-sublist">
+<!-- Hackathon Organizer Guide Column -->
+<div style="flex:1 1 240px; min-width:240px;">
+  <h2>Hackathon Organizer Guide</h2>
+  <ul>
     <li>
       <a href="https://dorahacks.io/blog/news/hackathon-operation/" target="_blank">
-        Hackathon Operations Guide
+        ⚙️ Hackathon Operations Guide
       </a>
     </li>
     <li>
       <a href="https://dorahacks.io/blog/news/hackathon-prep/" target="_blank">
-        Step Zero: Before You Start
+        🧱 Step Zero: Before You Start
       </a>
     </li>
     <li>
       <a href="https://dorahacks.io/blog/guides/how-to-create-a-hackathon/" target="_blank">
-        Create a Hackathon on DoraHacks
+        🏗 Create a Hackathon on DoraHacks
       </a>
     </li>
     <li>
       <a href="https://dorahacks.io/blog/guides/diy-your-hackathon/" target="_blank">
-        Manage Your DIY Hackathon
+        🧰 Manage Your DIY Hackathon
       </a>
     </li>
     <li>
       <a href="https://dorahacks.io/blog/guides/host-your-own-hackathons/" target="_blank">
-        Organizer Prep Checklist
+        📋 Organizer Prep Checklist
       </a>
     </li>
-  </ul>
-</li>
-
   </ul>
 </div>
 
