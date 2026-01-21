@@ -1,6 +1,6 @@
 ---
 title: Quadratic Funding
-parent: Features
+parent: /
 nav_order: 3
 ---
 # **Quadratic Funding**
