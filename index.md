@@ -59,13 +59,38 @@ nav_order: 1
   </ul>
 </div>
 
-  <!-- Hackathon Ideas Column -->
-  <div style="flex:1 1 240px; min-width:240px;">
-    <h2>Hackathon Ideas</h2>
-    <ul>
-      <li>💡 <a href="{{ '/hackathon-ideas/' | relative_url }}">The Blueprint of AI Trading Hackathons</a></li>
-    </ul>
-  </div>
+<!-- Hackathon Ideas Column -->
+<div style="flex:1 1 240px; min-width:240px;">
+  <h2>Hackathon Ideas</h2>
+  <ul>
+    <li>
+      <a href="https://dorahacks.io/blog/news/start-up-ideas-pt1-2026/" target="_blank">
+        💡 DoraHacks Start-up Ideas 2026: Digital Finance
+      </a>
+    </li>
+    <li>
+      <a href="https://dorahacks.io/blog/news/ai-trading-hackathon/" target="_blank">
+        🤖 AI Trading Hackathon Blueprint
+      </a>
+    </li>
+    <li>
+      <a href="https://dorahacks.io/blog/announcements/organize-x402-hackathon/" target="_blank">
+        🌐 Organizing an x402 Hackathon
+      </a>
+    </li>
+    <li>
+      <a href="https://dorahacks.io/blog/news/hackathons-devrel-super-tool/" target="_blank">
+        📣 Hackathons as a DevRel Super Tool
+      </a>
+    </li>
+    <li>
+      <a href="https://dorahacks.io/blog/news/hackathon-reimagined/" target="_blank">
+        🔄 From Grants to Growth
+      </a>
+    </li>
+  </ul>
+</div>
+
 
   <!-- Features Column -->
   <div style="flex:1 1 240px; min-width:240px;">
