@@ -1,6 +1,6 @@
 ---
 title: MACI and aMACI
-parent: Features
+parent: /
 nav_order: 4
 ---
 
