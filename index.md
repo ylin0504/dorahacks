@@ -15,17 +15,6 @@ nav_order: 1
 
 <div style="display:flex; flex-wrap:wrap; gap:2.5rem; margin-top:1.5rem;">
 
-<!-- Hacker Guide Column -->
-<div style="flex:1 1 240px; min-width:240px;">
-  <h2>Hacker Guide</h2>
-  <ul>
-    <li>
-      <a href="https://dorahacks.io/blog/news/hacker-success-guide/" target="_blank">
-        🚀 The Beginner Hacker's Guide
-      </a>
-    </li>
-  </ul>
-</div>
 
 <!-- Hackathon Organizer Guide Column -->
 <div style="flex:1 1 240px; min-width:240px;">
@@ -91,6 +80,17 @@ nav_order: 1
   </ul>
 </div>
 
+<!-- Hacker Guide Column -->
+<div style="flex:1 1 240px; min-width:240px;">
+  <h2>Hacker Guide</h2>
+  <ul>
+    <li>
+      <a href="https://dorahacks.io/blog/news/hacker-success-guide/" target="_blank">
+        🚀 The Beginner Hacker's Guide
+      </a>
+    </li>
+  </ul>
+</div>
 
   <!-- Features Column -->
   <div style="flex:1 1 240px; min-width:240px;">
