@@ -59,7 +59,13 @@ nav_order: 1
   </ul>
 </div>
 
-
+  <!-- Hackathon Ideas Column -->
+  <div style="flex:1 1 240px; min-width:240px;">
+    <h2>Hackathon Ideas</h2>
+    <ul>
+      <li>💡 <a href="{{ '/hackathon-ideas/' | relative_url }}">The Blueprint of AI Trading Hackathons: Why They Matter and How to Organize One</a></li>
+    </ul>
+  </div>
 
   <!-- Features Column -->
   <div style="flex:1 1 240px; min-width:240px;">
@@ -87,13 +93,7 @@ nav_order: 1
     </ul>
   </div>
 
-  <!-- Hackathon Ideas Column -->
-  <div style="flex:1 1 240px; min-width:240px;">
-    <h2>Hackathon Ideas</h2>
-    <ul>
-      <li>💡 <a href="{{ '/hackathon-ideas/' | relative_url }}">The Blueprint of AI Trading Hackathons: Why They Matter and How to Organize One</a></li>
-    </ul>
-  </div>
+
   
 </div>
 
