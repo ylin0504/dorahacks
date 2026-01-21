@@ -18,8 +18,6 @@ If Organizer Guide is about execution, Hackathon Ideas is about intent and struc
 
 ## Recommended Reading
 
-<br>
-
 <section style="margin-top:40px;">
 
   <!-- Hackathon Ideas: Start-up Ideas 2026 -->
