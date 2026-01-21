@@ -135,7 +135,7 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
   <div style="display:flex; flex-direction:column; justify-content:center;">
     <h3 style="margin:0 0 8px 0;">From Builder to Organizer: The Global Hackathon Movement</h3>
     <p style="margin:0; color:#555; line-height:1.5;">
-      BUIDL AI 3.0 enables anyone to launch hackathons for free, lowering the barrier for builders to become organizers with AI-assisted setup, judging, and community support.
+      BUIDL AI 3.0 lowers the operational barrier for builders to become organizers through AI-assisted setup, judging, and community support.
     </p>
   </div>
 </div>
