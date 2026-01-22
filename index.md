@@ -6,7 +6,7 @@ nav_order: 1
 <div
   style="
     width:100%;
-    height:220px;
+    height:180px;
     overflow:hidden;
     border-radius:8px;
     margin-bottom:1rem;
@@ -50,7 +50,7 @@ nav_order: 1
 }
 </style>
 
-<div class="welcome-sections" style="display:flex; flex-wrap:wrap; gap:1.25rem; margin-top:0.75rem;">
+<div class="welcome-sections" style="display:flex; flex-wrap:wrap; gap:1.75rem; margin-top:0.75rem;">
 
   <!-- Hackathon Organizer Guide Column -->
   <div style="font-size:0.95rem; flex:1 1 240px; min-width:240px;">
