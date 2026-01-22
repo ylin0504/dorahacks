@@ -53,7 +53,7 @@ nav_order: 1
 <div class="welcome-sections" style="display:flex; flex-wrap:wrap; gap:1.25rem; margin-top:0.75rem;">
 
   <!-- Hackathon Organizer Guide Column -->
-  <div style="flex:1 1 240px; min-width:240px;">
+  <div style="font-size:0.95rem; flex:1 1 240px; min-width:240px;">
     <h2>Hackathon Organizer Guide</h2>
     <ul>
       <li>
@@ -85,7 +85,7 @@ nav_order: 1
   </div>
 
   <!-- Hacker Guide Column -->
-  <div style="flex:1 1 240px; min-width:240px;">
+  <div style="font-size:0.95rem; flex:1 1 240px; min-width:240px;">
     <h2>Hacker Guide</h2>
     <ul>
       <li>
@@ -97,7 +97,7 @@ nav_order: 1
   </div>
 
   <!-- Hackathon Ideas Column -->
-  <div style="flex:1 1 240px; min-width:240px;">
+  <div style="font-size:0.95rem; flex:1 1 240px; min-width:240px;">
     <h2>Hackathon Ideas</h2>
     <ul>
       <li>
@@ -129,7 +129,7 @@ nav_order: 1
   </div>
 
   <!-- Features Column -->
-  <div style="flex:1 1 240px; min-width:240px;">
+  <div style="font-size:0.95rem; flex:1 1 240px; min-width:240px;">
     <h2>Features</h2>
     <ul>
       <li>🚩 <a href="{{ '/features/hackathon/' | relative_url }}">Hackathon</a></li>
@@ -140,7 +140,7 @@ nav_order: 1
   </div>
 
   <!-- About Column -->
-  <div style="flex:1 1 240px; min-width:240px;">
+  <div style="font-size:0.95rem; flex:1 1 240px; min-width:240px;">
     <h2>About DoraHacks</h2>
     <ul>
       <li>🧭 <a href="{{ '/about/mission-and-vision/' | relative_url }}">Mission and Vision</a></li>
