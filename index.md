@@ -31,12 +31,14 @@ nav_order: 1
 
 <div style="font-size:0.95rem; line-height:1.55; color:#444;">
 
+<a href="https://dorahacks.io/" target="_blank">DoraHacks</a> is the leading global hackathon community and open source developer incentive platform. DoraHacks provides toolkits for anyone to organize hackathons and fund early-stage ecosystem startups.
 
-[DoraHacks](https://dorahacks.io/) is the leading global hackathon community and open source developer incentive platform. DoraHacks provides toolkits for anyone to organize hackathons and fund early-stage ecosystem startups.
+<br><br>
 
-[DoraHacks](https://dorahacks.io/) creates a global hacker movement in Web3, AI, Quantum Computing and Space Tech. So far, more than 30,000 startup teams from the DoraHacks community have received over $300M in funding, and a large number of open source communities, companies and tech ecosystems are actively using DoraHacks together with its BUIDL AI capabilities for organizing hackathons and funding open source initiatives.
+<a href="https://dorahacks.io/" target="_blank">DoraHacks</a> creates a global hacker movement in Web3, AI, Quantum Computing and Space Tech. So far, more than 30,000 startup teams from the DoraHacks community have received over $300M in funding, and a large number of open source communities, companies and tech ecosystems are actively using DoraHacks together with its BUIDL AI capabilities for organizing hackathons and funding open source initiatives.
 
 </div>
+
 
 
 <div style="display:flex; flex-wrap:wrap; gap:1rem; margin-top:0rem;">
