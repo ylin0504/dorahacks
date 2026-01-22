@@ -21,6 +21,11 @@ nav_order: 1
   <h2>Hackathon Organizer Guide</h2>
   <ul>
     <li>
+     <a href="https://dorahacks.io/blog/guides/how-to-create-a-hackathon/" target="_blank">
+        🏗 Create a Hackathon on DoraHacks
+      </a>
+    </li>
+    <li>
       <a href="https://dorahacks.io/blog/news/hackathon-operation/" target="_blank">
         ⚙️ Hackathon Operations Guide
       </a>
@@ -28,11 +33,6 @@ nav_order: 1
     <li>
       <a href="https://dorahacks.io/blog/news/hackathon-prep/" target="_blank">
         🧱 Step Zero: Before You Start
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/guides/how-to-create-a-hackathon/" target="_blank">
-        🏗 Create a Hackathon on DoraHacks
       </a>
     </li>
     <li>
