@@ -1,7 +1,7 @@
 ---
 title: BUIDL
 parent: Features
-nav_order: 2
+nav_order: 4
 ---
 
 # **BUIDL**
