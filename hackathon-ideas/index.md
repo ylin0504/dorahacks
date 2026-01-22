@@ -16,7 +16,11 @@ If Organizer Guide is about execution, Hackathon Ideas is about intent and struc
 
 ---
 
-## Recommended Reading
+Concepts, blueprints, and design thinking for building meaningful hackathons.
+
+Explore why hackathons work, how different designs shape outcomes, and how to align intent with ecosystem goals. Click the card to read the full article.
+
+Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dorahacksofficial)
 
 <section style="margin-top:40px;">
 
