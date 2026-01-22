@@ -10,10 +10,30 @@ Step by step operational guides for organizing, running, and scaling hackathons 
 
 ---
 
-## Recommended Reading
+Step by step operational guides for organizing, managing, and scaling hackathons on DoraHacks. Click the card to read the full article. 
+
+Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dorahacksofficial)
+
 
 <br>
 
+<div
+  class="guide-card"
+  onclick="window.open('https://dorahacks.io/blog/guides/how-to-create-a-hackathon/', '_blank')"
+>
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/create-hackathon-on-dorahacks.jpg"
+    alt="Create Your Own Hackathon on DoraHacks"
+  />
+  <div class="guide-card-content">
+    <h3>
+      How to Create Your Own Hackathon on DoraHacks
+    </h3>
+    <p>
+      A step-by-step guide to creating, configuring, and launching your hackathon on DoraHacks using the organizer dashboard.
+    </p>
+  </div>
+</div>
 
 <div
   class="guide-card"
@@ -52,23 +72,7 @@ Step by step operational guides for organizing, running, and scaling hackathons 
 </div>
 
 
-<div
-  class="guide-card"
-  onclick="window.open('https://dorahacks.io/blog/guides/how-to-create-a-hackathon/', '_blank')"
->
-  <img
-    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/create-hackathon-on-dorahacks.jpg"
-    alt="Create Your Own Hackathon on DoraHacks"
-  />
-  <div class="guide-card-content">
-    <h3>
-      How to Create Your Own Hackathon on DoraHacks
-    </h3>
-    <p>
-      A step-by-step guide to creating, configuring, and launching your hackathon on DoraHacks using the organizer dashboard.
-    </p>
-  </div>
-</div>
+
 
 <div
   class="guide-card"
