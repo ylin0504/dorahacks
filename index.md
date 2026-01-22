@@ -13,7 +13,7 @@ nav_order: 1
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; gap:2.5rem; margin-top:1.5rem;">
+<div style="display:flex; flex-wrap:wrap; gap:2.5rem; ">
 
 
 <!-- Hackathon Organizer Guide Column -->
