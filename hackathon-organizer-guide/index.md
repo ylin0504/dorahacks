@@ -1,10 +1,10 @@
 ---
-title: Hackathon Organizer Guide
+title: Hackathon Organizer’s Guide
 nav_order: 2
 has_children: true
 ---
 
-# Hackathon Organizer Guide
+# Hackathon Organizer’s Guide
 
 Step by step operational guides for organizing, running, and scaling hackathons on DoraHacks.
 
