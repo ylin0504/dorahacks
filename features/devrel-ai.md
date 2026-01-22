@@ -6,7 +6,7 @@ nav_order: 3
 
 # DevRel AI
 
-🔑 DevRel AI access: https://dorahacks.io/buidl-ai
+🔑 DevRel AI access: [https://dorahacks.io/buidl-ai](https://dorahacks.io/buidl-ai)
 
 AI-native DevRel automation that turns hackathons into long-term builder growth engines.
 
