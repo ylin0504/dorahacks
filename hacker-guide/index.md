@@ -16,8 +16,6 @@ Learn how to get started, submit BUIDLs, and make the most of each hackathon. Cl
 
 Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dorahacksofficial)
 
-<br>
-
 <div
   class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/news/hacker-success-guide/', '_blank')"
