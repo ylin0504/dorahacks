@@ -6,7 +6,7 @@ nav_order: 1
 <div
   style="
     width:100%;
-    height:220px;
+    height:180px;
     overflow:hidden;
     border-radius:8px;
     margin-bottom:1rem;
