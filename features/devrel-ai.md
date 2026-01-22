@@ -6,6 +6,8 @@ nav_order: 3
 
 # DevRel AI
 
+🔑 DevRel AI access: https://dorahacks.io/buidl-ai
+
 AI-native DevRel automation that turns hackathons into long-term builder growth engines.
 
 DevRel AI extends DoraHacks beyond single events by automating mentorship, progress tracking, and post-hackathon engagement. It enables ecosystems to support builders continuously, not just during competitions.
