@@ -37,16 +37,18 @@ nav_order: 1
 
 </div>
 
+<br>
+
 <style>
 /* 仅压缩下方导航板块，不影响顶部 About DoraHacks */
 .welcome-sections h2 {
-  margin-top: 0.75rem;
+  margin-top: 0.25rem;
   margin-bottom: 0.25rem;
 }
 
 .welcome-sections ul {
   margin-top: 0.5rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.25rem;
 }
 </style>
 
