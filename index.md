@@ -3,13 +3,31 @@ title: Welcome
 nav_order: 1
 ---
 
-<img src="assets/dora-banner.jpg" alt="DoraHacks workspace banner" style="width:100%; border-radius:8px; margin-bottom:0rem;">
+<img 
+  src="assets/dora-banner.jpg"
+  alt="DoraHacks workspace banner"
+  style="
+    width:100%;
+    height:220px;
+    object-fit:cover;
+    object-position:center;
+    border-radius:8px;
+    margin-bottom:1rem;
+  "
+>
 
-## **About DoraHacks**
+
+### About DoraHacks
+
+<div style="font-size:0.95rem; line-height:1.55; color:#444;">
+
 
 [DoraHacks](https://dorahacks.io/) is the leading global hackathon community and open source developer incentive platform. DoraHacks provides toolkits for anyone to organize hackathons and fund early-stage ecosystem startups.
 
 [DoraHacks](https://dorahacks.io/) creates a global hacker movement in Web3, AI, Quantum Computing and Space Tech. So far, more than 30,000 startup teams from the DoraHacks community have received over $300M in funding, and a large number of open source communities, companies and tech ecosystems are actively using DoraHacks together with its BUIDL AI capabilities for organizing hackathons and funding open source initiatives.
+
+</div>
+
 
 <div style="display:flex; flex-wrap:wrap; gap:1rem; margin-top:0rem;">
 
