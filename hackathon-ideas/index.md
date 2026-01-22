@@ -15,7 +15,7 @@ Explore why hackathons work, how different designs shape outcomes, and how to al
 
 Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dorahacksofficial)
 
-<section style="margin-top:40px;">
+<section>
 
   <!-- Hackathon Ideas: Start-up Ideas 2026 -->
   <div
