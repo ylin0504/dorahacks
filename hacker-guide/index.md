@@ -1,10 +1,10 @@
 ---
-title: Hacker Guide
+title: Hacker’s Guide
 nav_order: 3
 has_children: true
 ---
 
-# Hacker Guide
+# Hacker’s Guide
 
 Practical guides and real world experience for hackers participating in hackathons.
 
