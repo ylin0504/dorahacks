@@ -1,11 +1,11 @@
 ---
-title: DoraHacks Wiki
+title: Welcome
 nav_order: 1
 ---
 
 <img src="assets/dora-banner.jpg" alt="DoraHacks workspace banner" style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
 
-# **DoraHacks Wiki**
+# **About DoraHacks**
 
 [DoraHacks](https://dorahacks.io/) is the leading global hackathon community and open source developer incentive platform. DoraHacks provides toolkits for anyone to organize hackathons and fund early-stage ecosystem startups.
 
@@ -48,6 +48,18 @@ nav_order: 1
   </ul>
 </div>
 
+<!-- Hacker Guide Column -->
+<div style="flex:1 1 240px; min-width:240px;">
+  <h2>Hacker Guide</h2>
+  <ul>
+    <li>
+      <a href="https://dorahacks.io/blog/news/hacker-success-guide/" target="_blank">
+        🚀 The Beginner Hacker's Guide
+      </a>
+    </li>
+  </ul>
+</div>
+
 <!-- Hackathon Ideas Column -->
 <div style="flex:1 1 240px; min-width:240px;">
   <h2>Hackathon Ideas</h2>
@@ -80,17 +92,7 @@ nav_order: 1
   </ul>
 </div>
 
-<!-- Hacker Guide Column -->
-<div style="flex:1 1 240px; min-width:240px;">
-  <h2>Hacker Guide</h2>
-  <ul>
-    <li>
-      <a href="https://dorahacks.io/blog/news/hacker-success-guide/" target="_blank">
-        🚀 The Beginner Hacker's Guide
-      </a>
-    </li>
-  </ul>
-</div>
+
 
   <!-- Features Column -->
   <div style="flex:1 1 240px; min-width:240px;">
