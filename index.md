@@ -54,7 +54,7 @@ nav_order: 1
 
   <!-- Hackathon Organizer Guide Column -->
   <div style="font-size:0.95rem; flex:1 1 240px; min-width:240px;">
-    <h2>Hackathon Organizer Guide</h2>
+    <h2>Hackathon Organizer’s Guide</h2>
     <ul>
       <li>
         <a href="https://dorahacks.io/blog/guides/how-to-create-a-hackathon/" target="_blank">
@@ -86,7 +86,7 @@ nav_order: 1
 
   <!-- Hacker Guide Column -->
   <div style="font-size:0.95rem; flex:1 1 240px; min-width:240px;">
-    <h2>Hacker Guide</h2>
+    <h2>Hacker’s Guide</h2>
     <ul>
       <li>
         <a href="https://dorahacks.io/blog/news/hacker-success-guide/" target="_blank">
