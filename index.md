@@ -25,6 +25,23 @@ nav_order: 1
 </div>
 
 
+<style>
+/* 压缩 Welcome 页板块之间的上下间距 */
+.main-content h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.main-content ul {
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+/* 压缩多列 flex 区块内部的垂直空白 */
+.main-content > div ul + h2 {
+  margin-top: 1.25rem;
+}
+</style>
 
 
 ## About DoraHacks
