@@ -27,7 +27,7 @@ nav_order: 1
 
 
 
-### About DoraHacks
+## About DoraHacks
 
 <div style="font-size:0.95rem; line-height:1.55; color:#444;">
 
