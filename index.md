@@ -27,7 +27,7 @@ nav_order: 1
 
 ## **About DoraHacks**
 
-<div style="font-size:0.95rem; line-height:1.55; color:#444; margin-bottom: 0.5rem;">
+<div style="font-size:0.95rem; line-height:1.55; color:#444; margin-bottom: 1.25rem;">
 
 <a href="https://dorahacks.io/" target="_blank">DoraHacks</a> is the leading global hackathon community and open source developer incentive platform. DoraHacks provides toolkits for anyone to organize hackathons and fund early-stage ecosystem startups.
 
@@ -40,8 +40,6 @@ nav_order: 1
 <style>
 /* 仅压缩下方导航板块，不影响顶部 About DoraHacks */
 .welcome-sections h2 {
-  font-size: 1.15rem;
-  font-weight: 600;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
 }
