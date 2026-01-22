@@ -42,6 +42,8 @@ nav_order: 1
 <style>
 /* 仅压缩下方导航板块，不影响顶部 About DoraHacks */
 .welcome-sections h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
 }
