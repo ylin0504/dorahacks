@@ -3,18 +3,28 @@ title: Welcome
 nav_order: 1
 ---
 
-<img 
-  src="assets/dora-banner.jpg"
-  alt="DoraHacks workspace banner"
+<div
   style="
     width:100%;
     height:220px;
-    object-fit:cover;
-    object-position:center;
+    overflow:hidden;
     border-radius:8px;
     margin-bottom:1rem;
   "
 >
+  <img
+    src="assets/dora-banner.jpg"
+    alt="DoraHacks workspace banner"
+    style="
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      object-position:center;
+    "
+  >
+</div>
+
+
 
 
 ### About DoraHacks
