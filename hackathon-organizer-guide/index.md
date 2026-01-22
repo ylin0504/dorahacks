@@ -14,9 +14,6 @@ Step by step operational guides for organizing, managing, and scaling hackathons
 
 Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dorahacksofficial)
 
-
-<br>
-
 <div
   class="guide-card"
   onclick="window.open('https://dorahacks.io/blog/guides/how-to-create-a-hackathon/', '_blank')"
