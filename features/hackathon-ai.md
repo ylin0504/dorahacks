@@ -6,6 +6,8 @@ nav_order: 2
 
 # Hackathon AI
 
+🔑 Hackathon AI access: https://dorahacks.io/buidl-ai
+
 AI-powered infrastructure for automating hackathon operations and improving efficiency across design, execution, and scaling.
 
 Hackathon AI is DoraHacks’ built-in agent system that assists organizers across the full hackathon lifecycle, from setup and review to judging and participant support. It reduces manual work while preserving full human oversight and decision-making.
