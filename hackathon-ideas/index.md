@@ -8,15 +8,8 @@ has_children: true
 
 Concepts, blueprints, and design thinking for building meaningful hackathons.
 
-Hackathons are not just events.  
-They are coordination mechanisms, talent filters, and ecosystem accelerators.
-
-This section focuses on **why hackathons work**, **what makes them effective**, and **how different design choices shape outcomes**.  
-If Organizer Guide is about execution, Hackathon Ideas is about intent and structure.
 
 ---
-
-Concepts, blueprints, and design thinking for building meaningful hackathons.
 
 Explore why hackathons work, how different designs shape outcomes, and how to align intent with ecosystem goals. Click the card to read the full article.
 
