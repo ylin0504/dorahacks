@@ -46,7 +46,6 @@ Explore the latest improvements to hackathon judging, automation, dashboards, an
 
 Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dorahacksofficial)
 
-<br>
 
 <!-- Hackathon AI -->
 <div
