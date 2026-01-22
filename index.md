@@ -11,8 +11,7 @@ nav_order: 1
 
 [DoraHacks](https://dorahacks.io/) creates a global hacker movement in Web3, AI, Quantum Computing and Space Tech. So far, more than 30,000 startup teams from the DoraHacks community have received over $300M in funding, and a large number of open source communities, companies and tech ecosystems are actively using DoraHacks together with its BUIDL AI capabilities for organizing hackathons and funding open source initiatives.
 
-<div style="display:flex; flex-wrap:wrap; gap:2.5rem; margin-top:1.5rem;">
-
+<div style="display:flex; flex-wrap:wrap; gap:1.25rem; margin-top:0.75rem;">
 
 <!-- Hackathon Organizer Guide Column -->
 <div style="flex:1 1 240px; min-width:240px;">
