@@ -6,7 +6,7 @@ nav_order: 1
 <div
   style="
     width:100%;
-    height:180px;
+    height:220px;
     overflow:hidden;
     border-radius:8px;
     margin-bottom:1rem;
@@ -25,26 +25,7 @@ nav_order: 1
 </div>
 
 
-<style>
-/* 压缩 Welcome 页板块之间的上下间距 */
-.main-content h2 {
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-}
-
-.main-content ul {
-  margin-top: 0.25rem;
-  margin-bottom: 1rem;
-}
-
-/* 压缩多列 flex 区块内部的垂直空白 */
-.main-content > div ul + h2 {
-  margin-top: 1.25rem;
-}
-</style>
-
-
-## About DoraHacks
+## **About DoraHacks**
 
 <div style="font-size:0.95rem; line-height:1.55; color:#444;">
 
@@ -56,87 +37,96 @@ nav_order: 1
 
 </div>
 
+<style>
+/* 仅压缩下方导航板块，不影响顶部 About DoraHacks */
+.welcome-sections h2 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.4rem;
+}
 
+.welcome-sections ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.75rem;
+}
+</style>
 
-<div style="display:flex; flex-wrap:wrap; gap:1rem; margin-top:0rem;">
+<div class="welcome-sections" style="display:flex; flex-wrap:wrap; gap:1.25rem; margin-top:0.75rem;">
 
-<!-- Hackathon Organizer Guide Column -->
-<div style="flex:1 1 240px; min-width:240px;">
-  <h2>Hackathon Organizer Guide</h2>
-  <ul>
-    <li>
-     <a href="https://dorahacks.io/blog/guides/how-to-create-a-hackathon/" target="_blank">
-        🏗 Create a Hackathon on DoraHacks
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/news/hackathon-operation/" target="_blank">
-        ⚙️ Hackathon Operations Guide
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/news/hackathon-prep/" target="_blank">
-        🧱 Step Zero: Before You Start
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/guides/diy-your-hackathon/" target="_blank">
-        🧰 Manage Your DIY Hackathon
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/guides/host-your-own-hackathons/" target="_blank">
-        📋 Organizer Prep Checklist
-      </a>
-    </li>
-  </ul>
-</div>
+  <!-- Hackathon Organizer Guide Column -->
+  <div style="flex:1 1 240px; min-width:240px;">
+    <h2>Hackathon Organizer Guide</h2>
+    <ul>
+      <li>
+        <a href="https://dorahacks.io/blog/guides/how-to-create-a-hackathon/" target="_blank">
+          🏗 Create a Hackathon on DoraHacks
+        </a>
+      </li>
+      <li>
+        <a href="https://dorahacks.io/blog/news/hackathon-operation/" target="_blank">
+          ⚙️ Hackathon Operations Guide
+        </a>
+      </li>
+      <li>
+        <a href="https://dorahacks.io/blog/news/hackathon-prep/" target="_blank">
+          🧱 Step Zero: Before You Start
+        </a>
+      </li>
+      <li>
+        <a href="https://dorahacks.io/blog/guides/diy-your-hackathon/" target="_blank">
+          🧰 Manage Your DIY Hackathon
+        </a>
+      </li>
+      <li>
+        <a href="https://dorahacks.io/blog/guides/host-your-own-hackathons/" target="_blank">
+          📋 Organizer Prep Checklist
+        </a>
+      </li>
+    </ul>
+  </div>
 
-<!-- Hacker Guide Column -->
-<div style="flex:1 1 240px; min-width:240px;">
-  <h2>Hacker Guide</h2>
-  <ul>
-    <li>
-      <a href="https://dorahacks.io/blog/news/hacker-success-guide/" target="_blank">
-        🚀 The Beginner Hacker's Guide
-      </a>
-    </li>
-  </ul>
-</div>
+  <!-- Hacker Guide Column -->
+  <div style="flex:1 1 240px; min-width:240px;">
+    <h2>Hacker Guide</h2>
+    <ul>
+      <li>
+        <a href="https://dorahacks.io/blog/news/hacker-success-guide/" target="_blank">
+          🚀 The Beginner Hacker's Guide
+        </a>
+      </li>
+    </ul>
+  </div>
 
-<!-- Hackathon Ideas Column -->
-<div style="flex:1 1 240px; min-width:240px;">
-  <h2>Hackathon Ideas</h2>
-  <ul>
-    <li>
-      <a href="https://dorahacks.io/blog/news/start-up-ideas-pt1-2026/" target="_blank">
-        💡 DoraHacks Start-up Ideas 2026: Digital Finance
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/news/ai-trading-hackathon/" target="_blank">
-        🤖 AI Trading Hackathon Blueprint
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/announcements/organize-x402-hackathon/" target="_blank">
-        🌐 Organizing an x402 Hackathon
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/news/hackathons-devrel-super-tool/" target="_blank">
-        📣 Hackathons as a DevRel Super Tool
-      </a>
-    </li>
-    <li>
-      <a href="https://dorahacks.io/blog/news/hackathon-reimagined/" target="_blank">
-        🔄 From Grants to Growth
-      </a>
-    </li>
-  </ul>
-</div>
-
-
+  <!-- Hackathon Ideas Column -->
+  <div style="flex:1 1 240px; min-width:240px;">
+    <h2>Hackathon Ideas</h2>
+    <ul>
+      <li>
+        <a href="https://dorahacks.io/blog/news/start-up-ideas-pt1-2026/" target="_blank">
+          💡 DoraHacks Start-up Ideas 2026: Digital Finance
+        </a>
+      </li>
+      <li>
+        <a href="https://dorahacks.io/blog/news/ai-trading-hackathon/" target="_blank">
+          🤖 AI Trading Hackathon Blueprint
+        </a>
+      </li>
+      <li>
+        <a href="https://dorahacks.io/blog/announcements/organize-x402-hackathon/" target="_blank">
+          🌐 Organizing an x402 Hackathon
+        </a>
+      </li>
+      <li>
+        <a href="https://dorahacks.io/blog/news/hackathons-devrel-super-tool/" target="_blank">
+          📣 Hackathons as a DevRel Super Tool
+        </a>
+      </li>
+      <li>
+        <a href="https://dorahacks.io/blog/news/hackathon-reimagined/" target="_blank">
+          🔄 From Grants to Growth
+        </a>
+      </li>
+    </ul>
+  </div>
 
   <!-- Features Column -->
   <div style="flex:1 1 240px; min-width:240px;">
@@ -162,8 +152,4 @@ nav_order: 1
     </ul>
   </div>
 
-
-  
 </div>
-
-<br>
