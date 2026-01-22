@@ -40,9 +40,32 @@ DoraHacks provides a bespoke platform for organizers to run their hackathons, **
 
 ---
 
-## Related Hackathon Feature Updates
+Product updates and feature highlights for running hackathons on DoraHacks.
+
+Explore the latest improvements to hackathon judging, automation, dashboards, and DevRel tooling. Click the card to read the full article.
+
+Need direct help? Contact us via Telegram [@dorahacksofficial](https://t.me/dorahacksofficial)
 
 <br>
+
+<!-- Hackathon AI -->
+<div
+  class="guide-card"
+  onclick="window.open('https://dorahacks.io/blog/guides/hackathon-ai/', '_blank')"
+>
+  <img
+    src="https://raw.githubusercontent.com/ylin0504/dorahacks/main/assets/hackathon-ai.jpg"
+    alt="Hackathon AI"
+  />
+  <div class="guide-card-content">
+    <h3>Introducing Hackathon AI</h3>
+    <p>
+      Hackathon AI is a built-in suite that assists organizers with setup, reviews, judging, and participant support, reducing operational overhead while keeping full control over hackathon design and decisions.
+    </p>
+  </div>
+</div>
+
+
 
 <!-- 1. External Judges -->
 <div
